@@ -36,8 +36,10 @@ Fransızca çeviri yapıyorsanız:
 ```plaintext
 {count,plural, =0{No Records Found} one{(1) Record Found} other{ (#) Records Found}}
 
-```Çeviri şu şekilde olmalıdır:
+**Çeviri şu şekilde olmalıdır:**
+```plaintext
 {count,plural, =0{Aucun enregistrement trouvé} one{(1) Enregistrement trouvé} other{ (#) Enregistrements trouvés}}
+
 
 ## Adım 4: Yeni Dili Uygulama
 Yeni dili OrangeHRM örneğinize uygulamak için, Admin modülündeki "Configuration" (Yapılandırma) menüsüne gidin ve "Localization" (Yerelleştirme) seçeneğini seçin. Ardından, dil seçim alanına tıklayın ve yeni çevirdiğiniz dil paketini listede göreceksiniz. Dili seçin ve "Save" (Kaydet) butonuna tıklayın. Bu, yeni dili OrangeHRM örneğinize uygulayacaktır.
