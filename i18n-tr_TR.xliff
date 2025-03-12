@@ -1,0 +1,5333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en_US" trgLang="tr_TR">
+  <file id="1">
+	<group id="general">
+  <unit id="deleted">
+    <segment>
+      <source> (Deleted)</source>
+      <target> (Silindi)</target>
+    </segment>
+  </unit>
+  <unit id="past_employee">
+    <segment>
+      <source>(Past Employee)</source>
+      <target>(Eski Çalışan)</target>
+    </segment>
+  </unit>
+  <unit id="select">
+    <segment>
+      <source>-- Select --</source>
+      <target>-- Seç --</target>
+    </segment>
+  </unit>
+  <unit id="about">
+    <segment>
+      <source>About</source>
+      <target>Hakkında</target>
+    </segment>
+  </unit>
+  <unit id="accept_jpg_png_upto_1mb_recomended_dimentions_200px_x_200px">
+    <segment>
+      <source>Accepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200px</source>
+      <target>jpg, .png, .gif dosyaları kabul edilir, maksimum 1MB. Önerilen boyutlar: 200px X 200px</target>
+    </segment>
+  </unit>
+  <unit id="accept_jpg_png_gif_upto_recommended_dimensions">
+    <segment>
+      <source>Accepts jpg, .png, .gif, .svg up to {fileSize}. Recommended dimensions: {width}px X {height}px</source>
+      <target>jpg, .png, .gif, .svg dosyaları kabul edilir, maksimum {fileSize}. Önerilen boyutlar: {width}px X {height}px</target>
+    </segment>
+  </unit>
+  <unit id="access_records">
+    <segment>
+      <source>Access Records</source>
+      <target>Kayıtlara Erişim</target>
+    </segment>
+  </unit>
+  <unit id="actions">
+    <segment>
+      <source>Actions</source>
+      <target>Eylemler</target>
+    </segment>
+  </unit>
+  <unit id="active">
+    <segment>
+      <source>Active</source>
+      <target>Aktif</target>
+    </segment>
+  </unit>
+  <unit id="active_employees">
+    <segment>
+      <source>Active Employees</source>
+      <target>Aktif Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="add">
+    <segment>
+      <source>Add</source>
+      <target>Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_attachment">
+    <segment>
+      <source>Add Attachment</source>
+      <target>Ek Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_comment">
+    <segment>
+      <source>Add Comment</source>
+      <target>Yorum Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_education">
+    <segment>
+      <source>Add Education</source>
+      <target>Eğitim Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_employee">
+    <segment>
+      <source>Add Employee</source>
+      <target>Çalışan Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_entitlements">
+    <segment>
+      <source>Add Entitlements</source>
+      <target>Haklar Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_language">
+    <segment>
+      <source>Add Language</source>
+      <target>Dil Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_license">
+    <segment>
+      <source>Add License</source>
+      <target>Lisans Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_membership">
+    <segment>
+      <source>Add Membership</source>
+      <target>Üyelik Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_skill">
+    <segment>
+      <source>Add Skill</source>
+      <target>Beceriler Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_another">
+    <segment>
+      <source>Add another</source>
+      <target>Başka ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_note">
+    <segment>
+      <source>Add note</source>
+      <target>Not ekle</target>
+    </segment>
+  </unit>
+  <unit id="address_street_1">
+    <segment>
+      <source>Address Street 1</source>
+      <target>Adres Sokak 1</target>
+    </segment>
+  </unit>
+  <unit id="address_street_2">
+    <segment>
+      <source>Address Street 2</source>
+      <target>Adres Sokak 2</target>
+    </segment>
+  </unit>
+  <unit id="admin">
+    <segment>
+      <source>Admin</source>
+      <target>Yönetici</target>
+    </segment>
+  </unit>
+  <unit id="allows_phone_numbers_only">
+    <segment>
+      <source>Allows numbers and only + - / ( )</source>
+      <target>Sadece sayılar ve + - / ( ) karakterlerine izin verilir</target>
+    </segment>
+  </unit>
+  <unit id="already_exists">
+    <segment>
+      <source>Already exists</source>
+      <target>Zaten mevcut</target>
+    </segment>
+  </unit>
+  <unit id="amount">
+    <segment>
+      <source>Amount</source>
+      <target>Miktar</target>
+    </segment>
+  </unit>
+  <unit id="apply">
+    <segment>
+      <source>Apply</source>
+      <target>Uygula</target>
+    </segment>
+  </unit>
+  <unit id="approve">
+    <segment>
+      <source>Approve</source>
+      <target>Onayla</target>
+    </segment>
+  </unit>
+  <unit id="apr">
+    <segment>
+      <source>Apr</source>
+      <target>Nis</target>
+    </segment>
+  </unit>
+  <unit id="april">
+    <segment>
+      <source>April</source>
+      <target>Nisan</target>
+    </segment>
+  </unit>
+  <unit id="are_you_sure">
+    <segment>
+      <source>Are you Sure?</source>
+      <target>Emin misiniz?</target>
+    </segment>
+  </unit>
+  <unit id="ascending">
+    <segment>
+      <source>Ascending</source>
+      <target>Artan</target>
+    </segment>
+  </unit>
+  <unit id="attachment_size_exceeded">
+    <segment>
+      <source>Attachment Size Exceeded</source>
+      <target>Ek Boyutu Aşıldı</target>
+    </segment>
+  </unit>
+  <unit id="attachments">
+    <segment>
+      <source>Attachments</source>
+      <target>Ekler</target>
+    </segment>
+  </unit>
+  <unit id="attendance">
+    <segment>
+      <source>Attendance</source>
+      <target>Devam</target>
+    </segment>
+  </unit>
+  <unit id="attendance_summary">
+    <segment>
+      <source>Attendance Summary</source>
+      <target>Devam Özeti</target>
+    </segment>
+  </unit>
+  <unit id="aug">
+    <segment>
+      <source>Aug</source>
+      <target>Ağu</target>
+    </segment>
+  </unit>
+  <unit id="august">
+    <segment>
+      <source>August</source>
+      <target>Ağustos</target>
+    </segment>
+  </unit>
+  <unit id="back">
+    <segment>
+      <source>Back</source>
+      <target>Geri</target>
+    </segment>
+  </unit>
+  <unit id="bad_request">
+    <segment>
+      <source>Bad Request</source>
+      <target>Geçersiz İstek</target>
+    </segment>
+  </unit>
+  <unit id="better">
+    <segment>
+      <source>Better</source>
+      <target>Daha İyi</target>
+    </segment>
+  </unit>
+  <unit id="browse">
+    <segment>
+      <source>Browse</source>
+      <target>Gözat</target>
+    </segment>
+  </unit>
+  <unit id="buzz">
+    <segment>
+      <source>Buzz</source>
+      <target>Haberler</target>
+    </segment>
+  </unit>
+  <unit id="cancel">
+    <segment>
+      <source>Cancel</source>
+      <target>İptal</target>
+    </segment>
+  </unit>
+  <unit id="candidate_records">
+    <segment>
+      <source>Candidate Records</source>
+      <target>Aday Kayıtları</target>
+    </segment>
+  </unit>
+  <unit id="candidates">
+    <segment>
+      <source>Candidates</source>
+      <target>Adaylar</target>
+    </segment>
+  </unit>
+  <unit id="cannot_be_deleted">
+    <segment>
+      <source>Cannot be deleted</source>
+      <target>Silinemez</target>
+    </segment>
+  </unit>
+  <unit id="change_password">
+    <segment>
+      <source>Change Password</source>
+      <target>Şifre Değiştir</target>
+    </segment>
+  </unit>
+  <unit id="change_password_question">
+    <segment>
+      <source>Change Password ?</source>
+      <target>Şifrenizi değiştirmek istiyor musunuz?</target>
+    </segment>
+  </unit>
+  <unit id="city">
+    <segment>
+      <source>City</source>
+      <target>Şehir</target>
+    </segment>
+  </unit>
+  <unit id="clear">
+    <segment>
+      <source>Clear</source>
+      <target>Temizle</target>
+    </segment>
+  </unit>
+  <unit id="click_here">
+    <segment>
+      <source>Click here</source>
+      <target>Buraya tıklayın</target>
+    </segment>
+  </unit>
+  <unit id="close">
+    <segment>
+      <source>Close</source>
+      <target>Kapat</target>
+    </segment>
+  </unit>
+  <unit id="closed">
+    <segment>
+      <source>Closed</source>
+      <target>Kapalı</target>
+    </segment>
+  </unit>
+  <unit id="comment">
+    <segment>
+      <source>Comment</source>
+      <target>Yorum</target>
+    </segment>
+  </unit>
+  <unit id="comment_here">
+    <segment>
+      <source>Comment here</source>
+      <target>Buraya yorum yapın</target>
+    </segment>
+  </unit>
+  <unit id="comments">
+    <segment>
+      <source>Comments</source>
+      <target>Yorumlar</target>
+    </segment>
+  </unit>
+  <unit id="company_name">
+    <segment>
+      <source>Company Name</source>
+      <target>Şirket Adı</target>
+    </segment>
+  </unit>
+  <unit id="configuration">
+    <segment>
+      <source>Configuration</source>
+      <target>Yapılandırma</target>
+    </segment>
+  </unit>
+  <unit id="configure">
+    <segment>
+      <source>Configure</source>
+      <target>Yapılandır</target>
+    </segment>
+  </unit>
+  <unit id="confirm">
+    <segment>
+      <source>Confirm</source>
+      <target>Onayla</target>
+    </segment>
+  </unit>
+  <unit id="confirm_password">
+    <segment>
+      <source>Confirm Password</source>
+      <target>Şifreyi Onayla</target>
+    </segment>
+  </unit>
+  <unit id="confirmation_required">
+    <segment>
+      <source>Confirmation Required</source>
+      <target>Onay Gerekli</target>
+    </segment>
+  </unit>
+  <unit id="corporate_branding">
+    <segment>
+      <source>Corporate Branding</source>
+      <target>Kurumsal Markalama</target>
+    </segment>
+  </unit>
+  <unit id="country">
+    <segment>
+      <source>Country</source>
+      <target>Ülke</target>
+    </segment>
+  </unit>
+  <unit id="currencies">
+    <segment>
+      <source>Currencies</source>
+      <target>Para Birimleri</target>
+    </segment>
+  </unit>
+  <unit id="currency">
+    <segment>
+      <source>Currency</source>
+      <target>Para Birimi</target>
+    </segment>
+  </unit>
+  <unit id="current_employees_only">
+    <segment>
+      <source>Current Employees Only</source>
+      <target>Yalnızca Mevcut Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="current_file">
+    <segment>
+      <source>Current File</source>
+      <target>Mevcut Dosya</target>
+    </segment>
+  </unit>
+  <unit id="current_and_past_employees">
+    <segment>
+      <source>Current and Past Employees</source>
+      <target>Mevcut ve Eski Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="customers">
+    <segment>
+      <source>Customers</source>
+      <target>Müşteriler</target>
+    </segment>
+  </unit>
+  <unit id="dashboard">
+    <segment>
+      <source>Dashboard</source>
+      <target>Kontrol Paneli</target>
+    </segment>
+  </unit>
+  <unit id="date">
+    <segment>
+      <source>Date</source>
+      <target>Tarih</target>
+    </segment>
+  </unit>
+  <unit id="date_range">
+    <segment>
+      <source>Date Range</source>
+      <target>Tarih Aralığı</target>
+    </segment>
+  </unit>
+  <unit id="dec">
+    <segment>
+      <source>Dec</source>
+      <target>Ara</target>
+    </segment>
+  </unit>
+  <unit id="december">
+    <segment>
+      <source>December</source>
+      <target>Aralık</target>
+    </segment>
+  </unit>
+  <unit id="delete_current">
+    <segment>
+      <source>Delete Current</source>
+      <target>Mevcutu Sil</target>
+    </segment>
+  </unit>
+  <unit id="delete_selected">
+    <segment>
+      <source>Delete Selected</source>
+      <target>Seçilenleri Sil</target>
+    </segment>
+  </unit>
+  <unit id="dependents">
+    <segment>
+      <source>Dependents</source>
+      <target>Yakınlar</target>
+    </segment>
+  </unit>
+  <unit id="descending">
+    <segment>
+      <source>Descending</source>
+      <target>Azalan</target>
+    </segment>
+  </unit>
+  <unit id="description">
+    <segment>
+      <source>Description</source>
+      <target>Açıklama</target>
+    </segment>
+  </unit>
+  <unit id="directory">
+    <segment>
+      <source>Directory</source>
+      <target>Dizin</target>
+    </segment>
+  </unit>
+  <unit id="disabled">
+    <segment>
+      <source>Disabled</source>
+      <target>Devre Dışı</target>
+    </segment>
+  </unit>
+  <unit id="download">
+    <segment>
+      <source>Download</source>
+      <target>İndir</target>
+    </segment>
+  </unit>
+  <unit id="duration">
+    <segment>
+      <source>Duration</source>
+      <target>Süre</target>
+    </segment>
+  </unit>
+  <unit id="ess">
+    <segment>
+      <source>ESS</source>
+      <target>ESS</target>
+    </segment>
+  </unit>
+  <unit id="edit">
+    <segment>
+      <source>Edit</source>
+      <target>Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_attachment">
+    <segment>
+      <source>Edit Attachment</source>
+      <target>Ek Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_education">
+    <segment>
+      <source>Edit Education</source>
+      <target>Eğitim Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_language">
+    <segment>
+      <source>Edit Language</source>
+      <target>Dil Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_license">
+    <segment>
+      <source>Edit License</source>
+      <target>Lisans Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_membership">
+    <segment>
+      <source>Edit Membership</source>
+      <target>Üyelik Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_skill">
+    <segment>
+      <source>Edit Skill</source>
+      <target>Beceri Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="education">
+    <segment>
+      <source>Education</source>
+      <target>Eğitim</target>
+    </segment>
+  </unit>
+  <unit id="email">
+    <segment>
+      <source>Email</source>
+      <target>E-posta</target>
+    </segment>
+  </unit>
+  <unit id="emergency_contacts">
+    <segment>
+      <source>Emergency Contacts</source>
+      <target>Acil Durum Kişileri</target>
+    </segment>
+  </unit>
+  <unit id="employee">
+    <segment>
+      <source>Employee</source>
+      <target>Çalışan</target>
+    </segment>
+  </unit>
+  <unit id="employee_entitlements">
+    <segment>
+      <source>Employee Entitlements</source>
+      <target>Çalışan Hakları</target>
+    </segment>
+  </unit>
+  <unit id="employee_full_name">
+    <segment>
+      <source>Employee Full Name</source>
+      <target>Çalışan Tam Adı</target>
+    </segment>
+  </unit>
+  <unit id="employee_id">
+    <segment>
+      <source>Employee Id</source>
+      <target>Çalışan Kimliği</target>
+    </segment>
+  </unit>
+  <unit id="employee_list">
+    <segment>
+      <source>Employee List</source>
+      <target>Çalışan Listesi</target>
+    </segment>
+  </unit>
+  <unit id="employee_name">
+    <segment>
+      <source>Employee Name</source>
+      <target>Çalışan Adı</target>
+    </segment>
+  </unit>
+  <unit id="employee_records">
+    <segment>
+      <source>Employee Records</source>
+      <target>Çalışan Kayıtları</target>
+    </segment>
+  </unit>
+  <unit id="employee_reports">
+    <segment>
+      <source>Employee Reports</source>
+      <target>Çalışan Raporları</target>
+    </segment>
+  </unit>
+  <unit id="employee_timesheets">
+    <segment>
+      <source>Employee Timesheets</source>
+      <target>Çalışan Zaman Çizelgeleri</target>
+    </segment>
+  </unit>
+  <unit id="employee_trackers">
+    <segment>
+      <source>Employee Trackers</source>
+      <target>Çalışan İzleyicileri</target>
+    </segment>
+  </unit>
+  <unit id="employees_terminated">
+    <segment>
+      <source>Employees Terminated</source>
+      <target>İşten Çıkarılan Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="employment_status">
+    <segment>
+      <source>Employment Status</source>
+      <target>İstihdam Durumu</target>
+    </segment>
+  </unit>
+  <unit id="enable">
+    <segment>
+      <source>Enable</source>
+      <target>Etkinleştir</target>
+    </segment>
+  </unit>
+  <unit id="enabled">
+    <segment>
+      <source>Enabled</source>
+      <target>Etkin</target>
+    </segment>
+  </unit>
+  <unit id="end_date">
+    <segment>
+      <source>End Date</source>
+      <target>Bitiş Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="end_date_should_be_after_start_date">
+    <segment>
+      <source>End date should be after Start date</source>
+      <target>Bitiş tarihi, başlangıç tarihinden sonra olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="end_time_should_be_after_start_time">
+    <segment>
+      <source>End time should be after Start time</source>
+      <target>Bitiş saati, başlangıç saatinden sonra olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="enter_valid_port_between_a_to_b">
+    <segment>
+      <source>Enter a valid port number between {minValue} to {maxValue}</source>
+      <target>{minValue} ile {maxValue} arasında geçerli bir port numarası girin</target>
+    </segment>
+  </unit>
+  <unit id="entitlements">
+    <segment>
+      <source>Entitlements</source>
+      <target>Haklar</target>
+    </segment>
+  </unit>
+  <unit id="error">
+    <segment>
+      <source>Error</source>
+      <target>Hata</target>
+    </segment>
+  </unit>
+  <unit id="expected_email_address_format_not_matched">
+    <segment>
+      <source>Expected format: admin@example.com</source>
+      <target>Beklenen format: admin@example.com</target>
+    </segment>
+  </unit>
+  <unit id="expiry_date">
+    <segment>
+      <source>Expiry Date</source>
+      <target>Son Kullanma Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="failed">
+    <segment>
+      <source>Failed</source>
+      <target>Başarısız</target>
+    </segment>
+  </unit>
+  <unit id="fax">
+    <segment>
+      <source>Fax</source>
+      <target>Faks</target>
+    </segment>
+  </unit>
+  <unit id="feb">
+    <segment>
+      <source>Feb</source>
+      <target>Şub</target>
+    </segment>
+  </unit>
+  <unit id="february">
+    <segment>
+      <source>February</source>
+      <target>Şubat</target>
+    </segment>
+  </unit>
+  <unit id="female">
+    <segment>
+      <source>Female</source>
+      <target>Kadın</target>
+    </segment>
+  </unit>
+  <unit id="file_name">
+    <segment>
+      <source>File Name</source>
+      <target>Dosya Adı</target>
+    </segment>
+  </unit>
+  <unit id="file_size">
+    <segment>
+      <source>File Size</source>
+      <target>Dosya Boyutu</target>
+    </segment>
+  </unit>
+  <unit id="file_type">
+    <segment>
+      <source>File Type</source>
+      <target>Dosya Türü</target>
+    </segment>
+  </unit>
+  <unit id="file_type_not_allowed">
+    <segment>
+      <source>File type not allowed</source>
+      <target>Dosya türüne izin verilmiyor</target>
+    </segment>
+  </unit>
+  <unit id="first_name">
+    <segment>
+      <source>First name</source>
+      <target>Ad</target>
+    </segment>
+  </unit>
+  <unit id="password_strength_message">
+    <segment>
+      <source>For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers</source>
+      <target>Güçlü bir şifre için lütfen büyük ve küçük harfler, semboller ve sayılar içeren tahmin edilmesi zor bir kombinasyon kullanın</target>
+    </segment>
+  </unit>
+  <unit id="fri">
+    <segment>
+      <source>Fri</source>
+      <target>Cuma</target>
+    </segment>
+  </unit>
+  <unit id="friday">
+    <segment>
+      <source>Friday</source>
+      <target>Cuma</target>
+    </segment>
+  </unit>
+  <unit id="from">
+    <segment>
+      <source>From</source>
+      <target>Tarafından</target>
+    </segment>
+  </unit>
+  <unit id="from_date">
+    <segment>
+      <source>From Date</source>
+      <target>Başlangıç Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="from_date_should_be_before_to_date">
+    <segment>
+      <source>From date should be before to date</source>
+      <target>Başlangıç tarihi, bitiş tarihinden önce olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="from_time_should_be_before_to_time">
+    <segment>
+      <source>From time should be before to time</source>
+      <target>Başlangıç saati, bitiş saatinden önce olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="full_name">
+    <segment>
+      <source>Full Name</source>
+      <target>Tam Ad</target>
+    </segment>
+  </unit>
+  <unit id="generate">
+    <segment>
+      <source>Generate</source>
+      <target>Oluştur</target>
+    </segment>
+  </unit>
+  <unit id="greater_than">
+    <segment>
+      <source>Greater Than</source>
+      <target>Daha Büyük</target>
+    </segment>
+  </unit>
+  <unit id="help">
+    <segment>
+      <source>Help</source>
+      <target>Yardım</target>
+    </segment>
+  </unit>
+  <unit id="id">
+    <segment>
+      <source>Id</source>
+      <target>Kimlik</target>
+    </segment>
+  </unit>
+  <unit id="immigration">
+    <segment>
+      <source>Immigration</source>
+      <target>İmmigrasyon</target>
+    </segment>
+  </unit>
+  <unit id="include_header">
+    <segment>
+      <source>Include Header</source>
+      <target>Başlığı Dahil Et</target>
+    </segment>
+  </unit>
+  <unit id="incorrect_dimensions">
+    <segment>
+      <source>Incorrect Dimensions</source>
+      <target>Yanlış Boyutlar</target>
+    </segment>
+  </unit>
+  <unit id="info">
+    <segment>
+      <source>Info</source>
+      <target>Bilgi</target>
+    </segment>
+  </unit>
+  <unit id="invalid">
+    <segment>
+      <source>Invalid</source>
+      <target>Geçersiz</target>
+    </segment>
+  </unit>
+  <unit id="jan">
+    <segment>
+      <source>Jan</source>
+      <target>Oca</target>
+    </segment>
+  </unit>
+  <unit id="january">
+    <segment>
+      <source>January</source>
+      <target>Ocak</target>
+    </segment>
+  </unit>
+  <unit id="job">
+    <segment>
+      <source>Job</source>
+      <target>İş</target>
+    </segment>
+  </unit>
+  <unit id="job_category">
+    <segment>
+      <source>Job Category</source>
+      <target>İş Kategorisi</target>
+    </segment>
+  </unit>
+  <unit id="job_specification">
+    <segment>
+      <source>Job Specification</source>
+      <target>İş Tanımı</target>
+    </segment>
+  </unit>
+  <unit id="job_title">
+    <segment>
+      <source>Job Title</source>
+      <target>İş Ünvanı</target>
+    </segment>
+  </unit>
+  <unit id="joined_date">
+    <segment>
+      <source>Joined Date</source>
+      <target>Katılım Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="jul">
+    <segment>
+      <source>Jul</source>
+      <target>Tem</target>
+    </segment>
+  </unit>
+  <unit id="july">
+    <segment>
+      <source>July</source>
+      <target>Temmuz</target>
+    </segment>
+  </unit>
+  <unit id="jun">
+    <segment>
+      <source>Jun</source>
+      <target>Haz</target>
+    </segment>
+  </unit>
+  <unit id="june">
+    <segment>
+      <source>June</source>
+      <target>Haziran</target>
+    </segment>
+  </unit>
+  <unit id="kpis">
+    <segment>
+      <source>KPIs</source>
+      <target>KPI'ler</target>
+    </segment>
+  </unit>
+  <unit id="keep_current">
+    <segment>
+      <source>Keep Current</source>
+      <target>Mevcut Olanı Koru</target>
+    </segment>
+  </unit>
+  <unit id="ldap_configuration">
+    <segment>
+      <source>LDAP Configuration</source>
+      <target>LDAP Yapılandırması</target>
+    </segment>
+  </unit>
+  <unit id="language">
+    <segment>
+      <source>Language</source>
+      <target>Dil</target>
+    </segment>
+  </unit>
+  <unit id="language_packages">
+    <segment>
+      <source>Language Packages</source>
+      <target>Dil Paketleri</target>
+    </segment>
+  </unit>
+  <unit id="languages">
+    <segment>
+      <source>Languages</source>
+      <target>Diller</target>
+    </segment>
+  </unit>
+  <unit id="last_name">
+    <segment>
+      <source>Last Name</source>
+      <target>Soyad</target>
+    </segment>
+  </unit>
+  <unit id="launching_soon">
+    <segment>
+      <source>Launching Soon</source>
+      <target>Yakında Başlıyor</target>
+    </segment>
+  </unit>
+  <unit id="leave">
+    <segment>
+      <source>Leave</source>
+      <target>İzin</target>
+    </segment>
+  </unit>
+  <unit id="less_than">
+    <segment>
+      <source>Less Than</source>
+      <target>Daha Küçük</target>
+    </segment>
+  </unit>
+  <unit id="level">
+    <segment>
+      <source>Level</source>
+      <target>Seviye</target>
+    </segment>
+  </unit>
+  <unit id="location">
+    <segment>
+      <source>Location</source>
+      <target>Konum</target>
+    </segment>
+  </unit>
+  <unit id="logout">
+    <segment>
+      <source>Logout</source>
+      <target>Çıkış Yap</target>
+    </segment>
+  </unit>
+  <unit id="maintenance">
+    <segment>
+      <source>Maintenance</source>
+      <target>Bakım</target>
+    </segment>
+  </unit>
+  <unit id="male">
+    <segment>
+      <source>Male</source>
+      <target>Erkek</target>
+    </segment>
+  </unit>
+  <unit id="manage_reviews">
+    <segment>
+      <source>Manage Reviews</source>
+      <target>İncelemeleri Yönet</target>
+    </segment>
+  </unit>
+  <unit id="mar">
+    <segment>
+      <source>Mar</source>
+      <target>Mar</target>
+    </segment>
+  </unit>
+  <unit id="march">
+    <segment>
+      <source>March</source>
+      <target>Mart</target>
+    </segment>
+  </unit>
+  <unit id="may">
+    <segment>
+      <source>May</source>
+      <target>Mayıs</target>
+    </segment>
+  </unit>
+  <unit id="memberships">
+    <segment>
+      <source>Memberships</source>
+      <target>Üyelikler</target>
+    </segment>
+  </unit>
+  <unit id="middle_name">
+    <segment>
+      <source>Middle name</source>
+      <target>Orta Ad</target>
+    </segment>
+  </unit>
+  <unit id="mobile">
+    <segment>
+      <source>Mobile</source>
+      <target>Cep Telefonu</target>
+    </segment>
+  </unit>
+  <unit id="module_forbidden">
+    <segment>
+      <source>Module Forbidden</source>
+      <target>Modül Yasaklandı</target>
+    </segment>
+  </unit>
+  <unit id="modules">
+    <segment>
+      <source>Modules</source>
+      <target>Modüller</target>
+    </segment>
+  </unit>
+  <unit id="mon">
+    <segment>
+      <source>Mon</source>
+      <target>Pzt</target>
+    </segment>
+  </unit>
+  <unit id="monday">
+    <segment>
+      <source>Monday</source>
+      <target>Pazartesi</target>
+    </segment>
+  </unit>
+  <unit id="more">
+    <segment>
+      <source>More</source>
+      <target>Daha Fazla</target>
+    </segment>
+  </unit>
+  <unit id="my_entitlements">
+    <segment>
+      <source>My Entitlements</source>
+      <target>Haklarım</target>
+    </segment>
+  </unit>
+  <unit id="my_info">
+    <segment>
+      <source>My Info</source>
+      <target>Bilgilerim</target>
+    </segment>
+  </unit>
+  <unit id="my_leave">
+    <segment>
+      <source>My Leave</source>
+      <target>İzinlerim</target>
+    </segment>
+  </unit>
+  <unit id="my_records">
+    <segment>
+      <source>My Records</source>
+      <target>Kayıtlarım</target>
+    </segment>
+  </unit>
+  <unit id="my_reviews">
+    <segment>
+      <source>My Reviews</source>
+      <target>İncelemelerim</target>
+    </segment>
+  </unit>
+  <unit id="my_timesheets">
+    <segment>
+      <source>My Timesheets</source>
+      <target>Zaman Çizelgelerim</target>
+    </segment>
+  </unit>
+  <unit id="my_trackers">
+    <segment>
+      <source>My Trackers</source>
+      <target>İzleyicilerim</target>
+    </segment>
+  </unit>
+  <unit id="name">
+    <segment>
+      <source>Name</source>
+      <target>Ad</target>
+    </segment>
+  </unit>
+  <unit id="nationality">
+    <segment>
+      <source>Nationality</source>
+      <target>Milliyet</target>
+    </segment>
+  </unit>
+  <unit id="no">
+    <segment>
+      <source>No</source>
+      <target>Hayır</target>
+    </segment>
+  </unit>
+  <unit id="no_records_found">
+    <segment>
+      <source>No Records Found</source>
+      <target>Kayıt Bulunamadı</target>
+    </segment>
+  </unit>
+<unit id="no_employees_match_filters">
+  <segment>
+    <source>No employees match the selected filters</source>
+    <target>Seçili filtrelerle eşleşen çalışan bulunamadı</target>
+  </segment>
+</unit>
+<unit id="no_file_chosen">
+  <segment>
+    <source>No file chosen</source>
+    <target>Dosya seçilmedi</target>
+  </segment>
+</unit>
+<unit id="no_file_selected">
+  <segment>
+    <source>No file selected</source>
+    <target>Dosya seçilmedi</target>
+  </segment>
+</unit>
+<unit id="no_matching_employees">
+  <segment>
+    <source>No matching employees</source>
+    <target>Eşleşen çalışan bulunamadı</target>
+  </segment>
+</unit>
+<unit id="no_cancel">
+  <segment>
+    <source>No, Cancel</source>
+    <target>Hayır, İptal Et</target>
+  </segment>
+</unit>
+<unit id="note">
+  <segment>
+    <source>Note</source>
+    <target>Not</target>
+  </segment>
+</unit>
+<unit id="notes">
+  <segment>
+    <source>Notes</source>
+    <target>Notlar</target>
+  </segment>
+</unit>
+<unit id="nov">
+  <segment>
+    <source>Nov</source>
+    <target>Kas</target>
+  </segment>
+</unit>
+<unit id="november">
+  <segment>
+    <source>November</source>
+    <target>Kasım</target>
+  </segment>
+</unit>
+<unit id="greater_than_or_equal_to_n">
+  <segment>
+    <source>Number should be greater than or equal to {minValue}</source>
+    <target>Sayı {minValue} değerinden büyük veya eşit olmalıdır</target>
+  </segment>
+</unit>
+<unit id="less_than_or_equal_to_n">
+  <segment>
+    <source>Number should be less than or equal to {maxValue}</source>
+    <target>Sayı {maxValue} değerinden küçük veya eşit olmalıdır</target>
+  </segment>
+</unit>
+<unit id="oct">
+  <segment>
+    <source>Oct</source>
+    <target>Eki</target>
+  </segment>
+</unit>
+<unit id="october">
+  <segment>
+    <source>October</source>
+    <target>Ekim</target>
+  </segment>
+</unit>
+<unit id="ok">
+  <segment>
+    <source>Ok</source>
+    <target>Tamam</target>
+  </segment>
+</unit>
+<unit id="or_login_with">
+  <segment>
+    <source>Or login with</source>
+    <target>Veya şununla giriş yapın</target>
+  </segment>
+</unit>
+<unit id="organization">
+  <segment>
+    <source>Organization</source>
+    <target>Organizasyon</target>
+  </segment>
+</unit>
+<unit id="other_email">
+  <segment>
+    <source>Other Email</source>
+    <target>Diğer E-posta</target>
+  </segment>
+</unit>
+<unit id="pim">
+  <segment>
+    <source>PIM</source>
+    <target>KİY (Personel Bilgi Yönetimi)</target>
+  </segment>
+</unit>
+<unit id="password">
+  <segment>
+    <source>Password</source>
+    <target>Şifre</target>
+  </segment>
+</unit>
+<unit id="passwords_do_not_match">
+  <segment>
+    <source>Passwords do not match</source>
+    <target>Şifreler eşleşmiyor</target>
+  </segment>
+</unit>
+<unit id="past_employees_only">
+  <segment>
+    <source>Past Employees Only</source>
+    <target>Yalnızca Eski Çalışanlar</target>
+  </segment>
+</unit>
+<unit id="pay_grade">
+  <segment>
+    <source>Pay Grade</source>
+    <target>Ücret Seviyesi</target>
+  </segment>
+</unit>
+<unit id="performance">
+  <segment>
+    <source>Performance</source>
+    <target>Performans</target>
+  </segment>
+</unit>
+<unit id="performed_by">
+  <segment>
+    <source>Performed By</source>
+    <target>Tarafından Gerçekleştirildi</target>
+  </segment>
+</unit>
+<unit id="personal_details">
+  <segment>
+    <source>Personal Details</source>
+    <target>Kişisel Bilgiler</target>
+  </segment>
+</unit>
+<unit id="phone">
+  <segment>
+    <source>Phone</source>
+    <target>Telefon</target>
+  </segment>
+</unit>
+<unit id="preview">
+  <segment>
+    <source>Preview</source>
+    <target>Önizleme</target>
+  </segment>
+</unit>
+<unit id="project_info">
+  <segment>
+    <source>Project Info</source>
+    <target>Proje Bilgisi</target>
+  </segment>
+</unit>
+<unit id="project_reports">
+  <segment>
+    <source>Project Reports</source>
+    <target>Proje Raporları</target>
+  </segment>
+</unit>
+<unit id="projects">
+  <segment>
+    <source>Projects</source>
+    <target>Projeler</target>
+  </segment>
+</unit>
+<unit id="publish">
+  <segment>
+    <source>Publish</source>
+    <target>Yayınla</target>
+  </segment>
+</unit>
+<unit id="punch_in_out">
+  <segment>
+    <source>Punch In/Out</source>
+    <target>Giriş/Çıkış Yap</target>
+  </segment>
+</unit>
+<unit id="purge_records">
+  <segment>
+    <source>Purge Records</source>
+    <target>Kayıtları Temizle</target>
+  </segment>
+</unit>
+<unit id="purged_employee">
+  <segment>
+    <source>Purged Employee</source>
+    <target>Temizlenen Çalışan</target>
+  </segment>
+</unit>
+<unit id="qualifications">
+  <segment>
+    <source>Qualifications</source>
+    <target>Nitelikler</target>
+  </segment>
+</unit>
+<unit id="range">
+  <segment>
+    <source>Range</source>
+    <target>Aralık</target>
+  </segment>
+</unit>
+<unit id="recruitment">
+  <segment>
+    <source>Recruitment</source>
+    <target>İşe Alım</target>
+  </segment>
+</unit>
+<unit id="register_oauth_client">
+  <segment>
+    <source>Register OAuth Client</source>
+    <target>OAuth İstemcisini Kaydet</target>
+  </segment>
+</unit>
+<unit id="reject">
+  <segment>
+    <source>Reject</source>
+    <target>Reddet</target>
+  </segment>
+</unit>
+<unit id="replace_current">
+  <segment>
+    <source>Replace Current</source>
+    <target>Mevcutu Değiştir</target>
+  </segment>
+</unit>
+<unit id="replace_with">
+  <segment>
+    <source>Replace With</source>
+    <target>Şununla Değiştir</target>
+  </segment>
+</unit>
+<unit id="report_name">
+  <segment>
+    <source>Report Name</source>
+    <target>Rapor Adı</target>
+  </segment>
+</unit>
+<unit id="report_to">
+  <segment>
+    <source>Report-to</source>
+    <target>Rapor Edilecek Kişi</target>
+  </segment>
+</unit>
+<unit id="reports">
+  <segment>
+    <source>Reports</source>
+    <target>Raporlar</target>
+  </segment>
+</unit>
+<unit id="required">
+  <segment>
+    <source>Required</source>
+    <target>Gerekli</target>
+  </segment>
+</unit>
+<unit id="reset">
+  <segment>
+    <source>Reset</source>
+    <target>Sıfırla</target>
+  </segment>
+</unit>
+<unit id="reset_to_default">
+  <segment>
+    <source>Reset to Default</source>
+    <target>Varsayılana Sıfırla</target>
+  </segment>
+</unit>
+<unit id="review_list">
+  <segment>
+    <source>Review List</source>
+    <target>İnceleme Listesi</target>
+  </segment>
+</unit>
+<unit id="salary">
+  <segment>
+    <source>Salary</source>
+    <target>Maaş</target>
+  </segment>
+</unit>
+<unit id="sat">
+  <segment>
+    <source>Sat</source>
+    <target>Cmt</target>
+  </segment>
+</unit>
+<unit id="saturday">
+  <segment>
+    <source>Saturday</source>
+    <target>Cumartesi</target>
+  </segment>
+</unit>
+<unit id="save">
+  <segment>
+    <source>Save</source>
+    <target>Kaydet</target>
+  </segment>
+</unit>
+<unit id="search">
+  <segment>
+    <source>Search</source>
+    <target>Ara</target>
+  </segment>
+</unit>
+<unit id="searching">
+  <segment>
+    <source>Searching....</source>
+    <target>Aranıyor...</target>
+  </segment>
+</unit>
+<unit id="select_file">
+  <segment>
+    <source>Select File</source>
+    <target>Dosya Seç</target>
+  </segment>
+</unit>
+<unit id="sep">
+  <segment>
+    <source>Sep</source>
+    <target>Eyl</target>
+  </segment>
+</unit>
+<unit id="september">
+  <segment>
+    <source>September</source>
+    <target>Eylül</target>
+  </segment>
+</unit>
+<unit id="should_be_a_number">
+  <segment>
+    <source>Should be a number</source>
+    <target>Sayı olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_a_number_between_min_and_max">
+  <segment>
+    <source>Should be a number between {min}-{max}</source>
+    <target>{min}-{max} arasında bir sayı olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_a_numeric_value">
+  <segment>
+    <source>Should be a numeric value</source>
+    <target>Nümerik bir değer olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_a_positive_number">
+  <segment>
+    <source>Should be a positive number</source>
+    <target>Pozitif bir sayı olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_a_valid_date_in_hh:mm_format">
+  <segment>
+    <source>Should be a valid date in hh:mm format</source>
+    <target>hh:mm formatında geçerli bir tarih olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_a_valid_date_in_x_format">
+  <segment>
+    <source>Should be a valid date in {format} format</source>
+    <target>{format} formatında geçerli bir tarih olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_least_n_characters">
+  <segment>
+    <source>Should be at least {amount} characters</source>
+    <target>En az {amount} karakter olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_greater_than_lower_bound">
+  <segment>
+    <source>Should be greater than lower bound</source>
+    <target>Alt sınırdan büyük olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_higher_than_minimum_value">
+  <segment>
+    <source>Should be higher than minimum value</source>
+    <target>Minimum değerden daha yüksek olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_less_than_upper_bound">
+  <segment>
+    <source>Should be less than upper bound</source>
+    <target>Üst sınırdan küçük olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_less_than_n">
+  <segment>
+    <source>Should be less than {amount}</source>
+    <target>{amount} değerinden küçük olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_lower_than_maximum_value">
+  <segment>
+    <source>Should be lower than maximum value</source>
+    <target>Maksimum değerden daha düşük olmalıdır</target>
+  </segment>
+</unit>
+<unit id="should_be_less_n_characters">
+  <segment>
+    <source>Should not exceed {amount} characters</source>
+    <target>{amount} karakteri aşmamalıdır</target>
+  </segment>
+</unit>
+<unit id="show_less">
+  <segment>
+    <source>Show Less</source>
+    <target>Daha Az Göster</target>
+  </segment>
+</unit>
+<unit id="show_more">
+  <segment>
+    <source>Show More</source>
+    <target>Daha Fazla Göster</target>
+  </segment>
+</unit>
+<unit id="size">
+  <segment>
+    <source>Size</source>
+    <target>Boyut</target>
+  </segment>
+</unit>
+<unit id="skills">
+  <segment>
+    <source>Skills</source>
+    <target>Beceriler</target>
+  </segment>
+</unit>
+<unit id="social_media_authentication">
+  <segment>
+    <source>Social Media Authentication</source>
+    <target>Sosyal Medya Kimlik Doğrulaması</target>
+  </segment>
+</unit>
+<unit id="start_date">
+  <segment>
+    <source>Start Date</source>
+    <target>Başlangıç Tarihi</target>
+  </segment>
+</unit>
+<unit id="start_date_should_be_before_end_date">
+  <segment>
+    <source>Start date should be before end date</source>
+    <target>Başlangıç tarihi, bitiş tarihinden önce olmalıdır</target>
+  </segment>
+</unit>
+<unit id="start_time_should_be_before_end_time">
+  <segment>
+    <source>Start time should be before end time</source>
+    <target>Başlangıç saati, bitiş saatinden önce olmalıdır</target>
+  </segment>
+</unit>
+<unit id="state">
+  <segment>
+    <source>State</source>
+    <target>Durum</target>
+  </segment>
+</unit>
+<unit id="state_province">
+  <segment>
+    <source>State/Province</source>
+    <target>Eyalet/İl</target>
+  </segment>
+</unit>
+<unit id="status">
+  <segment>
+    <source>Status</source>
+    <target>Durum</target>
+  </segment>
+</unit>
+<unit id="strong">
+  <segment>
+    <source>Strong</source>
+    <target>Güçlü</target>
+  </segment>
+</unit>
+<unit id="strongest">
+  <segment>
+    <source>Strongest</source>
+    <target>En Güçlü</target>
+  </segment>
+</unit>
+<unit id="structure">
+  <segment>
+    <source>Structure</source>
+    <target>Yapı</target>
+  </segment>
+</unit>
+<unit id="sub_unit">
+  <segment>
+    <source>Sub Unit</source>
+    <target>Alt Birim</target>
+  </segment>
+</unit>
+<unit id="submit">
+  <segment>
+    <source>Submit</source>
+    <target>Gönder</target>
+  </segment>
+</unit>
+<unit id="success">
+  <segment>
+    <source>Success</source>
+    <target>Başarılı</target>
+  </segment>
+</unit>
+<unit id="successfully_activated">
+  <segment>
+    <source>Successfully Activated</source>
+    <target>Başarıyla Etkinleştirildi</target>
+  </segment>
+</unit>
+<unit id="successfully_deleted">
+  <segment>
+    <source>Successfully Deleted</source>
+    <target>Başarıyla Silindi</target>
+  </segment>
+</unit>
+<unit id="successfully_saved">
+  <segment>
+    <source>Successfully Saved</source>
+    <target>Başarıyla Kaydedildi</target>
+  </segment>
+</unit>
+<unit id="successfully_updated">
+  <segment>
+    <source>Successfully Updated</source>
+    <target>Başarıyla Güncellendi</target>
+  </segment>
+</unit>
+<unit id="sun">
+  <segment>
+    <source>Sun</source>
+    <target>Paz</target>
+  </segment>
+</unit>
+<unit id="sunday">
+  <segment>
+    <source>Sunday</source>
+    <target>Pazar</target>
+  </segment>
+</unit>
+<unit id="support">
+  <segment>
+    <source>Support</source>
+    <target>Destek</target>
+  </segment>
+</unit>
+<unit id="tax_exemptions">
+  <segment>
+    <source>Tax Exemptions</source>
+    <target>Vergi Muafiyetleri</target>
+  </segment>
+</unit>
+<unit id="module_access_restriction">
+  <segment>
+    <source>The page you're trying to access has restricted access</source>
+    <target>Erişmeye çalıştığınız sayfa kısıtlanmış erişime sahip</target>
+  </segment>
+</unit>
+<unit id="delete_confirmation_message">
+  <segment>
+    <source>The selected record will be permanently deleted. Are you sure you want to continue?</source>
+    <target>Seçili kayıt kalıcı olarak silinecektir. Devam etmek istediğinize emin misiniz?</target>
+  </segment>
+</unit>
+<unit id="invalid_video_url_message">
+  <segment>
+    <source>This URL is not a valid URL of a video or it is not supported by the system</source>
+    <target>Bu URL, geçerli bir video URL'si değil ya da sistem tarafından desteklenmiyor</target>
+  </segment>
+</unit>
+<unit id="page_under_development">
+  <segment>
+    <source>This page is currently under development.</source>
+    <target>Bu sayfa şu anda geliştirme aşamasında.</target>
+  </segment>
+</unit>
+<unit id="thu">
+  <segment>
+    <source>Thu</source>
+    <target>Per</target>
+  </segment>
+</unit>
+<unit id="thursday">
+  <segment>
+    <source>Thursday</source>
+    <target>Perşembe</target>
+  </segment>
+</unit>
+<unit id="time">
+  <segment>
+    <source>Time</source>
+    <target>Zaman</target>
+  </segment>
+</unit>
+<unit id="timesheets">
+  <segment>
+    <source>Timesheets</source>
+    <target>Zaman Çizelgeleri</target>
+  </segment>
+</unit>
+<unit id="to">
+  <segment>
+    <source>To</source>
+    <target>Kime</target>
+  </segment>
+</unit>
+<unit id="to_date">
+  <segment>
+    <source>To Date</source>
+    <target>Bitiş Tarihi</target>
+  </segment>
+</unit>
+<unit id="to_date_should_be_after_from_date">
+  <segment>
+    <source>To date should be after From date</source>
+    <target>Bitiş tarihi, başlangıç tarihinden sonra olmalıdır</target>
+  </segment>
+</unit>
+<unit id="to_time_should_be_after_from_time">
+  <segment>
+    <source>To time should be after from time</source>
+    <target>Bitiş saati, başlangıç saatinden sonra olmalıdır</target>
+  </segment>
+</unit>
+<unit id="today">
+  <segment>
+    <source>Today</source>
+    <target>Bugün</target>
+  </segment>
+</unit>
+<unit id="total">
+  <segment>
+    <source>Total</source>
+    <target>Toplam</target>
+  </segment>
+</unit>
+<unit id="trackers">
+  <segment>
+    <source>Trackers</source>
+    <target>İzleyiciler</target>
+  </segment>
+</unit>
+<unit id="tue">
+  <segment>
+    <source>Tue</source>
+    <target>Sal</target>
+  </segment>
+</unit>
+<unit id="tuesday">
+  <segment>
+    <source>Tuesday</source>
+    <target>Salı</target>
+  </segment>
+</unit>
+<unit id="type">
+  <segment>
+    <source>Type</source>
+    <target>Tür</target>
+  </segment>
+</unit>
+<unit id="type_comments_here">
+  <segment>
+    <source>Type Comments here</source>
+    <target>Yorumlarınızı buraya yazın</target>
+  </segment>
+</unit>
+<unit id="type_comment_here">
+  <segment>
+    <source>Type comment here</source>
+    <target>Yorumu buraya yazın</target>
+  </segment>
+</unit>
+<unit id="type_description_here">
+  <segment>
+    <source>Type description here</source>
+    <target>Açıklamayı buraya yazın</target>
+  </segment>
+</unit>
+<unit id="type_for_hints">
+  <segment>
+    <source>Type for hints...</source>
+    <target>İpuçları için yazın...</target>
+  </segment>
+</unit>
+<unit id="type_here">
+  <segment>
+    <source>Type here</source>
+    <target>Buraya yazın</target>
+  </segment>
+</unit>
+<unit id="type_here_message">
+  <segment>
+    <source>Type here ...</source>
+    <target>Buraya yazın...</target>
+  </segment>
+</unit>
+<unit id="unexpected_error">
+  <segment>
+    <source>Unexpected Error!</source>
+    <target>Beklenmeyen Hata!</target>
+  </segment>
+</unit>
+<unit id="upgrade">
+  <segment>
+    <source>Upgrade</source>
+    <target>Yükselt</target>
+  </segment>
+</unit>
+<unit id="upload">
+  <segment>
+    <source>Upload</source>
+    <target>Yükle</target>
+  </segment>
+</unit>
+<unit id="upload_n_file">
+  <segment>
+    <source>Upload {fileName}</source>
+    <target>{fileName} Yükle</target>
+  </segment>
+</unit>
+<unit id="user_management">
+  <segment>
+    <source>User Management</source>
+    <target>Kullanıcı Yönetimi</target>
+  </segment>
+</unit>
+<unit id="user_role">
+  <segment>
+    <source>User Role</source>
+    <target>Kullanıcı Rolü</target>
+  </segment>
+</unit>
+<unit id="user_status">
+  <segment>
+    <source>User Status</source>
+    <target>Kullanıcı Durumu</target>
+  </segment>
+</unit>
+<unit id="username">
+  <segment>
+    <source>Username</source>
+    <target>Kullanıcı Adı</target>
+  </segment>
+</unit>
+<unit id="users">
+  <segment>
+    <source>Users</source>
+    <target>Kullanıcılar</target>
+  </segment>
+</unit>
+<unit id="vacancies">
+  <segment>
+    <source>Vacancies</source>
+    <target>Boş Pozisyonlar</target>
+  </segment>
+</unit>
+<unit id="version">
+  <segment>
+    <source>Version</source>
+    <target>Sürüm</target>
+  </segment>
+</unit>
+<unit id="very_weak">
+  <segment>
+    <source>Very Weak</source>
+    <target>Çok Zayıf</target>
+  </segment>
+</unit>
+<unit id="view">
+  <segment>
+    <source>View</source>
+    <target>Görüntüle</target>
+  </segment>
+</unit>
+<unit id="warning">
+  <segment>
+    <source>Warning</source>
+    <target>Uyarı</target>
+  </segment>
+</unit>
+<unit id="weak">
+  <segment>
+    <source>Weak</source>
+    <target>Zayıf</target>
+  </segment>
+</unit>
+<unit id="wed">
+  <segment>
+    <source>Wed</source>
+    <target>Çar</target>
+  </segment>
+</unit>
+<unit id="wednesday">
+  <segment>
+    <source>Wednesday</source>
+    <target>Çarşamba</target>
+  </segment>
+</unit>
+<unit id="work_email">
+  <segment>
+    <source>Work Email</source>
+    <target>İş E-postası</target>
+  </segment>
+</unit>
+<unit id="year">
+  <segment>
+    <source>Year</source>
+    <target>Yıl</target>
+  </segment>
+</unit>
+<unit id="yes">
+  <segment>
+    <source>Yes</source>
+    <target>Evet</target>
+  </segment>
+</unit>
+<unit id="yes_delete">
+  <segment>
+    <source>Yes, Delete</source>
+    <target>Evet, Sil</target>
+  </segment>
+</unit>
+<unit id="zip_postal_code">
+  <segment>
+    <source>Zip/Postal Code</source>
+    <target>Posta Kodu</target>
+  </segment>
+</unit>
+<unit id="download_latest_release">
+  <segment>
+    <source>to download the latest stable release.</source>
+    <target>en son kararlı sürümü indirmek için.</target>
+  </segment>
+</unit>
+<unit id="date_format">
+  <segment>
+    <source>yyyy-mm-dd</source>
+    <target>yyyy-aa-gg</target>
+  </segment>
+</unit>
+<unit id="accept_custom_format_file_up_to_n_mb">
+  <segment>
+    <source>{count, plural, one {Accepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MB} other{ Accepts .docx, .doc, .odt, .pdf, .rtf, .txt up to #MBs}}</source>
+    <target>{count, plural, one {.docx, .doc, .odt, .pdf, .rtf, .txt dosyaları kabul edilir, maksimum 1MB} other{ .docx, .doc, .odt, .pdf, .rtf, .txt dosyaları kabul edilir, maksimum #MB}}</target>
+  </segment>
+</unit>
+<unit id="accepts_up_to_n_mb">
+  <segment>
+    <source>{count, plural, one {Accepts up to 1MB} other { Accepts up to #MBs}}</source>
+    <target>{count, plural, one {Maksimum 1MB kabul edilir} other { Maksimum #MB kabul edilir}}</target>
+  </segment>
+</unit>
+<unit id="n_records_found">
+  <segment>
+    <source>{count,plural, =0{No Records Found} one{(1) Record Found} other{ (#) Records Found}}</source>
+    <target>{count,plural, =0{Kayıt Bulunamadı} one{(1) Kayıt Bulundu} other{ (#) Kayıt Bulundu}}</target>
+  </segment>
+</unit>
+<unit id="n_records_selected">
+  <segment>
+    <source>{count,plural, =0{No Records Selected} one{(1) Record Selected} other{(#) Records Selected}}</source>
+    <target>{count,plural, =0{Kayıt Seçilmedi} one{(1) Kayıt Seçildi} other{(#) Kayıt Seçildi}}</target>
+  </segment>
+</unit>
+    </group>
+	<group id="admin">
+  <unit id="hours_per_day">
+    <segment>
+      <source>Hours Per Day</source>
+      <target>Günlük Saat</target>
+    </segment>
+  </unit>
+  <unit id="port_input_hint">
+    <segment>
+      <source>If SSL use port 636 by default</source>
+      <target>Eğer SSL kullanılıyorsa varsayılan olarak 636 portunu kullanın</target>
+    </segment>
+  </unit>
+  <unit id="import_language_package">
+    <segment>
+      <source>Import Language Package</source>
+      <target>Dil Paketini İçe Aktar</target>
+    </segment>
+  </unit>
+  <unit id="job_categories">
+    <segment>
+      <source>Job Categories</source>
+      <target>İş Kategorileri</target>
+    </segment>
+  </unit>
+  <unit id="job_description">
+    <segment>
+      <source>Job Description</source>
+      <target>İş Tanımı</target>
+    </segment>
+  </unit>
+  <unit id="job_titles">
+    <segment>
+      <source>Job Titles</source>
+      <target>İş Ünvanları</target>
+    </segment>
+  </unit>
+  <unit id="language_package">
+    <segment>
+      <source>Language Package</source>
+      <target>Dil Paketi</target>
+    </segment>
+  </unit>
+  <unit id="last_sync_failed_on_datetime">
+    <segment>
+      <source>Last sync failed on {datetime}</source>
+      <target>Son eşitleme {datetime} tarihinde başarısız oldu</target>
+    </segment>
+  </unit>
+  <unit id="last_synced_on_datetime">
+    <segment>
+      <source>Last synced on {datetime}</source>
+      <target>Son eşitleme {datetime} tarihinde yapıldı</target>
+    </segment>
+  </unit>
+  <unit id="leave_applications">
+    <segment>
+      <source>Leave Applications</source>
+      <target>İzin Başvuruları</target>
+    </segment>
+  </unit>
+  <unit id="leave_approvals">
+    <segment>
+      <source>Leave Approvals</source>
+      <target>İzin Onayları</target>
+    </segment>
+  </unit>
+  <unit id="leave_assignments">
+    <segment>
+      <source>Leave Assignments</source>
+      <target>İzin Atamaları</target>
+    </segment>
+  </unit>
+  <unit id="make_sure_to_copy_the_client_secret_now">
+    <segment>
+      <source>Make sure to copy the client secret now. You won’t be able to see it again.</source>
+      <target>Müşteri sırrını şimdi kopyaladığınızdan emin olun. Bir daha göremezsiniz.</target>
+    </segment>
+  </unit>
+  <unit id="maximum_salary">
+    <segment>
+      <source>Maximum Salary</source>
+      <target>Maksimum Maaş</target>
+    </segment>
+  </unit>
+  <unit id="merge_ldap_users_with_existing_system_users">
+    <segment>
+      <source>Merge LDAP Users With Existing System Users</source>
+      <target>LDAP Kullanıcılarını Mevcut Sistem Kullanıcılarıyla Birleştir</target>
+    </segment>
+  </unit>
+  <unit id="minimum_salary">
+    <segment>
+      <source>Minimum Salary</source>
+      <target>Minimum Maaş</target>
+    </segment>
+  </unit>
+  <unit id="placeholder_mismatch">
+    <segment>
+      <source>Mismatch found between placeholders</source>
+      <target>Yer tutucular arasında uyuşmazlık bulundu</target>
+    </segment>
+  </unit>
+  <unit id="plural_placeholder_mismatch">
+    <segment>
+      <source>Mismatch found between plural expression placeholder</source>
+      <target>Çoğul ifade yer tutucusu arasında uyuşmazlık bulundu</target>
+    </segment>
+  </unit>
+  <unit id="select_placeholder_mismatch">
+    <segment>
+      <source>Mismatch found between select expression placeholder</source>
+      <target>Seçim ifadesi yer tutucusu arasında uyuşmazlık bulundu</target>
+    </segment>
+  </unit>
+  <unit id="module">
+    <segment>
+      <source>Module</source>
+      <target>Modül</target>
+    </segment>
+  </unit>
+  <unit id="module_configuration">
+    <segment>
+      <source>Module Configuration</source>
+      <target>Modül Yapılandırması</target>
+    </segment>
+  </unit>
+  <unit id="multiple_user_returned">
+    <segment>
+      <source>Multiple User Returned</source>
+      <target>Birden Çok Kullanıcı Döndü</target>
+    </segment>
+  </unit>
+  <unit id="add_subscriber">
+    <segment>
+      <source>Add Subscriber</source>
+      <target>Abone Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_user">
+    <segment>
+      <source>Add User</source>
+      <target>Kullanıcı Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_work_shift">
+    <segment>
+      <source>Add Work Shift</source>
+      <target>Çalışma Vardiyası Ekle</target>
+    </segment>
+  </unit>
+  <unit id="additional_settings">
+    <segment>
+      <source>Additional Settings</source>
+      <target>Ek Ayarlar</target>
+    </segment>
+  </unit>
+  <unit id="address">
+    <segment>
+      <source>Address</source>
+      <target>Adres</target>
+    </segment>
+  </unit>
+  <unit id="admin_module">
+    <segment>
+      <source>Admin Module</source>
+      <target>Yönetici Modülü</target>
+    </segment>
+  </unit>
+  <unit id="all">
+    <segment>
+      <source>All</source>
+      <target>Tümü</target>
+    </segment>
+  </unit>
+  <unit id="performance_module">
+    <segment>
+      <source>Performance Module</source>
+      <target>Performans Modülü</target>
+    </segment>
+  </unit>
+  <unit id="pim_module">
+    <segment>
+      <source>Pim Module</source>
+      <target>Personel Bilgi Yönetimi Modülü</target>
+    </segment>
+  </unit>
+  <unit id="please_check_the_settings_for_your_ldap_configuration">
+    <segment>
+      <source>Please check the settings for your LDAP configuration</source>
+      <target>Lütfen LDAP yapılandırmanız için ayarları kontrol edin</target>
+    </segment>
+  </unit>
+  <unit id="please_save_before_pagination">
+    <segment>
+      <source>Please save your changes before moving to the next page</source>
+      <target>Lütfen bir sonraki sayfaya geçmeden önce değişikliklerinizi kaydedin</target>
+    </segment>
+  </unit>
+  <unit id="port">
+    <segment>
+      <source>Port</source>
+      <target>Port</target>
+    </segment>
+  </unit>
+  <unit id="sendmail">
+    <segment>
+      <source>Sendmail</source>
+      <target>Posta Gönder</target>
+    </segment>
+  </unit>
+  <unit id="server_settings">
+    <segment>
+      <source>Server Settings</source>
+      <target>Sunucu Ayarları</target>
+    </segment>
+  </unit>
+  <unit id="shift_name">
+    <segment>
+      <source>Shift Name</source>
+      <target>Vardiya Adı</target>
+    </segment>
+  </unit>
+  <unit id="should_be_higher_than_minimum_salary">
+    <segment>
+      <source>Should be higher than Minimum Salary</source>
+      <target>Minimum Maaştan yüksek olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="should_be_lower_than_maximum_salary">
+    <segment>
+      <source>Should be lower than Maximum Salary</source>
+      <target>Maksimum Maaştan düşük olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="show">
+    <segment>
+      <source>Show</source>
+      <target>Göster</target>
+    </segment>
+  </unit>
+  <unit id="search_scope_input_hint">
+    <segment>
+      <source>Subtree option will allow searching base directory and sub directories. One level will only search within the base directory</source>
+      <target>Alt ağaç seçeneği, ana dizin ve alt dizinlerde arama yapılmasını sağlar. Bir seviye yalnızca ana dizinde arama yapar</target>
+    </segment>
+  </unit>
+  <unit id="sync_connection">
+    <segment>
+      <source>Sync Connection</source>
+      <target>Bağlantıyı Eşitle</target>
+    </segment>
+  </unit>
+  <unit id="sync_interval">
+    <segment>
+      <source>Sync Interval (in Hours)</source>
+      <target>Eşitleme Aralığı (Saat Cinsinden)</target>
+    </segment>
+  </unit>
+  <unit id="sync_now">
+    <segment>
+      <source>Sync Now</source>
+      <target>Şimdi Eşitle</target>
+    </segment>
+  </unit>
+  <unit id="synchronization_failed">
+    <segment>
+      <source>Synchronization Failed</source>
+      <target>Eşitleme Başarısız Oldu</target>
+    </segment>
+  </unit>
+  <unit id="user_lookup_settings">
+    <segment>
+      <source>User Lookup Settings</source>
+      <target>Kullanıcı Arama Ayarları</target>
+    </segment>
+  </unit>
+  <unit id="user_name_attribute">
+    <segment>
+      <source>User Name Attribute</source>
+      <target>Kullanıcı Adı Niteliği</target>
+    </segment>
+  </unit>
+  <unit id="user_search_filter">
+    <segment>
+      <source>User Search Filter</source>
+      <target>Kullanıcı Arama Filtresi</target>
+    </segment>
+  </unit>
+  <unit id="user_unique_id_attribute">
+    <segment>
+      <source>User Unique ID Attribute</source>
+      <target>Kullanıcı Benzersiz Kimlik Niteliği</target>
+    </segment>
+  </unit>
+  <unit id="user_lookup">
+    <segment>
+      <source>User lookup</source>
+      <target>Kullanıcı arama</target>
+    </segment>
+  </unit>
+  <unit id="work_shifts">
+    <segment>
+      <source>Work Shifts</source>
+      <target>Çalışma Vardiyaları</target>
+    </segment>
+  </unit>
+  <unit id="n_users_found">
+    <segment>
+      <source>{count} user(s) found</source>
+      <target>{count} kullanıcı bulundu</target>
+    </segment>
+  </unit>
+  <unit id="n_users_will_be_imported">
+    <segment>
+      <source>{count} user(s) will be imported</source>
+      <target>{count} kullanıcı içe aktarılacak</target>
+    </segment>
+  </unit>
+</group>
+	<group id="pim">
+  <unit id="account_number">
+    <segment>
+      <source>Account Number</source>
+      <target>Hesap Numarası</target>
+    </segment>
+  </unit>
+  <unit id="account_type">
+    <segment>
+      <source>Account Type</source>
+      <target>Hesap Türü</target>
+    </segment>
+  </unit>
+  <unit id="activate_employment">
+    <segment>
+      <source>Activate Employment</source>
+      <target>İstihdamı Etkinleştir</target>
+    </segment>
+  </unit>
+  <unit id="add_custom_field">
+    <segment>
+      <source>Add Custom Field</source>
+      <target>Özel Alan Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_dependent">
+    <segment>
+      <source>Add Dependent</source>
+      <target>Yakın Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_immigration">
+    <segment>
+      <source>Add Immigration</source>
+      <target>Göçmenlik Bilgisi Ekle</target>
+    </segment>
+  </unit>
+  <unit id="enter_allowed_options_separated_by_commas">
+    <segment>
+      <source>Enter allowed options separated by commas</source>
+      <target>İzin verilen seçenekleri virgülle ayırarak girin</target>
+    </segment>
+  </unit>
+  <unit id="exemptions">
+    <segment>
+      <source>Exemptions</source>
+      <target>Muafiyetler</target>
+    </segment>
+  </unit>
+  <unit id="expiry_date_should_be_after_issued_date">
+    <segment>
+      <source>Expiry date should be after issued date</source>
+      <target>Son kullanma tarihi, veriliş tarihinden sonra olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="failed_rows">
+    <segment>
+      <source>Failed Rows</source>
+      <target>Başarısız Satırlar</target>
+    </segment>
+  </unit>
+  <unit id="federal_income_tax">
+    <segment>
+      <source>Federal Income Tax</source>
+      <target>Federal Gelir Vergisi</target>
+    </segment>
+  </unit>
+  <unit id="field_name">
+    <segment>
+      <source>Field Name</source>
+      <target>Alan Adı</target>
+    </segment>
+  </unit>
+  <unit id="field_type">
+    <segment>
+      <source>Field Type</source>
+      <target>Alan Türü</target>
+    </segment>
+  </unit>
+  <unit id="first_middle_name">
+    <segment>
+      <source>First (&amp; Middle) Name</source>
+      <target>Ad (&amp; İkinci Ad)</target>
+    </segment>
+  </unit>
+  <unit id="first_name_and_last_name_are_compulsory">
+    <segment>
+      <source>First Name and Last Name are compulsory</source>
+      <target>Ad ve Soyad zorunludur</target>
+    </segment>
+  </unit>
+  <unit id="fluency">
+    <segment>
+      <source>Fluency</source>
+      <target>Akılcılık</target>
+    </segment>
+  </unit>
+  <unit id="gpa_score">
+    <segment>
+      <source>GPA/Score</source>
+      <target>GPA/Puan</target>
+    </segment>
+  </unit>
+  <unit id="gender">
+    <segment>
+      <source>Gender</source>
+      <target>Cinsiyet</target>
+    </segment>
+  </unit>
+  <unit id="home">
+    <segment>
+      <source>Home</source>
+      <target>Ana Sayfa</target>
+    </segment>
+  </unit>
+  <unit id="home_telephone">
+    <segment>
+      <source>Home Telephone</source>
+      <target>Ev Telefonu</target>
+    </segment>
+  </unit>
+  <unit id="hourly">
+    <segment>
+      <source>Hourly</source>
+      <target>Saatlik</target>
+    </segment>
+  </unit>
+  <unit id="gender_specified_value_should_be_either_m_or_f">
+    <segment>
+      <source>If gender is specified, value should be either Male or Female</source>
+      <target>Eğer cinsiyet belirtilmişse, değer Erkek veya Kadın olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="import_details">
+    <segment>
+      <source>Import Details</source>
+      <target>İçe Aktarma Detayları</target>
+    </segment>
+  </unit>
+  <unit id="nickname">
+    <segment>
+      <source>Nickname</source>
+      <target>Takma Ad</target>
+    </segment>
+  </unit>
+  <unit id="number">
+    <segment>
+      <source>Number</source>
+      <target>Numara</target>
+    </segment>
+  </unit>
+  <unit id="optional_fields">
+    <segment>
+      <source>Optional Fields</source>
+      <target>Opsiyonel Alanlar</target>
+    </segment>
+  </unit>
+  <unit id="other">
+    <segment>
+      <source>Other</source>
+      <target>Diğer</target>
+    </segment>
+  </unit>
+  <unit id="other_id">
+    <segment>
+      <source>Other Id</source>
+      <target>Diğer Kimlik</target>
+    </segment>
+  </unit>
+  <unit id="passport">
+    <segment>
+      <source>Passport</source>
+      <target>Pasaport</target>
+    </segment>
+  </unit>
+  <unit id="pay_frequency">
+    <segment>
+      <source>Pay Frequency</source>
+      <target>Ücret Sıklığı</target>
+    </segment>
+  </unit>
+  <unit id="semi_monthly">
+    <segment>
+      <source>Semi Monthly</source>
+      <target>Yarı Aylık</target>
+    </segment>
+  </unit>
+  <unit id="service_period">
+    <segment>
+      <source>Service Period</source>
+      <target>Hizmet Süresi</target>
+    </segment>
+  </unit>
+  <unit id="should_be_within_min_max_values">
+    <segment>
+      <source>Should be within Min/Max values</source>
+      <target>Minimum/Maksimum değerler arasında olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="show_deprecated_fields">
+    <segment>
+      <source>Show Deprecated Fields</source>
+      <target>Kullanım Dışı Alanları Göster</target>
+    </segment>
+  </unit>
+  <unit id="show_nick_name_smoker_and_military_service_in_personal_details">
+    <segment>
+      <source>Show Nick Name, Smoker and Military Service in Personal Details</source>
+      <target>Kişisel Detaylarda Takma Ad, Sigara İçen ve Askerlik Hizmetini Göster</target>
+    </segment>
+  </unit>
+  <unit id="show_sin_field_in_personal_details">
+    <segment>
+      <source>Show SIN field in Personal Details</source>
+      <target>Kişisel Detaylarda SIN Alanını Göster</target>
+    </segment>
+  </unit>
+  <unit id="show_ssn_field_in_personal_details">
+    <segment>
+      <source>Show SSN field in Personal Details</source>
+      <target>Kişisel Detaylarda SSN Alanını Göster</target>
+    </segment>
+  </unit>
+  <unit id="show_us_tax_exemptions_menu">
+    <segment>
+      <source>Show US Tax Exemptions menu</source>
+      <target>ABD Vergi Muafiyetleri Menüsünü Göster</target>
+    </segment>
+  </unit>
+  <unit id="single">
+    <segment>
+      <source>Single</source>
+      <target>Bekar</target>
+    </segment>
+  </unit>
+  <unit id="assigned_dependents">
+    <segment>
+      <source>Assigned Dependents</source>
+      <target>Atanmış Yakınlar</target>
+    </segment>
+  </unit>
+  <unit id="assigned_emergency_contacts">
+    <segment>
+      <source>Assigned Emergency Contacts</source>
+      <target>Atanmış Acil Durum Kişileri</target>
+    </segment>
+  </unit>
+  <unit id="assigned_immigration_records">
+    <segment>
+      <source>Assigned Immigration Records</source>
+      <target>Atanmış Göçmenlik Kayıtları</target>
+    </segment>
+  </unit>
+  <unit id="assigned_memberships">
+    <segment>
+      <source>Assigned Memberships</source>
+      <target>Atanmış Üyelikler</target>
+    </segment>
+  </unit>
+  <unit id="assigned_salary_components">
+    <segment>
+      <source>Assigned Salary Components</source>
+      <target>Atanmış Maaş Bileşenleri</target>
+    </segment>
+  </unit>
+  <unit id="n_records_failed_to_import">
+    <segment>
+      <source>{count,plural, =0{No Records Failed to Import} one{1 Record Failed to Import} other{ # Records Failed to Import}}</source>
+      <target>{count,plural, =0{Hiç Kayıt İçe Aktarılamadı} one{1 Kayıt İçe Aktarılamadı} other{# Kayıt İçe Aktarılamadı}}</target>
+    </segment>
+  </unit>
+  <unit id="n_records_successfully_imported">
+    <segment>
+      <source>{count,plural, =0{No Records Imported} one{1 Record Successfully Imported} other{ # Records Successfully Imported}}</source>
+      <target>{count,plural, =0{Hiç Kayıt İçe Aktarılmadı} one{1 Kayıt Başarıyla İçe Aktarıldı} other{# Kayıt Başarıyla İçe Aktarıldı}}</target>
+    </segment>
+  </unit>
+  <unit id="direct_deposit_account_type">
+    <segment>
+      <source>Direct Deposit Account Type</source>
+      <target>Doğrudan Yatırım Hesap Türü</target>
+    </segment>
+  </unit>
+  <unit id="direct_deposit_amount">
+    <segment>
+      <source>Direct Deposit Amount</source>
+      <target>Doğrudan Yatırım Tutarı</target>
+    </segment>
+  </unit>
+  <unit id="display_fields">
+    <segment>
+      <source>Display Fields</source>
+      <target>Görüntüleme Alanları</target>
+    </segment>
+  </unit>
+  <unit id="document">
+    <segment>
+      <source>Document</source>
+      <target>Belge</target>
+    </segment>
+  </unit>
+  <unit id="document_type">
+    <segment>
+      <source>Document Type</source>
+      <target>Belge Türü</target>
+    </segment>
+  </unit>
+  <unit id="driver_license_number">
+    <segment>
+      <source>Driver License Number</source>
+      <target>Sürücü Ehliyet Numarası</target>
+    </segment>
+  </unit>
+</group>
+	<group id="leave">
+  <unit id="bulk_leave_action_confirm_message_two">
+    <segment>
+      <source>Are you sure you want to continue?</source>
+      <target>Devam etmek istediğinize emin misiniz?</target>
+    </segment>
+  </unit>
+  <unit id="as_of_date">
+    <segment>
+      <source>As of Date</source>
+      <target>Tarihe Göre</target>
+    </segment>
+  </unit>
+  <unit id="assign">
+    <segment>
+      <source>Assign</source>
+      <target>Ata</target>
+    </segment>
+  </unit>
+  <unit id="assign_leave">
+    <segment>
+      <source>Assign Leave</source>
+      <target>İzin Ata</target>
+    </segment>
+  </unit>
+  <unit id="at_least_one_day_should_be_a_working_day">
+    <segment>
+      <source>At least one day should be a working day</source>
+      <target>En az bir gün iş günü olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="available_balance">
+    <segment>
+      <source>Available Balance</source>
+      <target>Kullanılabilir Bakiye</target>
+    </segment>
+  </unit>
+  <unit id="balance">
+    <segment>
+      <source>Balance</source>
+      <target>Bakiye</target>
+    </segment>
+  </unit>
+  <unit id="balance_not_sufficient">
+    <segment>
+      <source>Balance not sufficient</source>
+      <target>Bakiye yetersiz</target>
+    </segment>
+  </unit>
+  <unit id="cancel_leave">
+    <segment>
+      <source>Cancel Leave</source>
+      <target>İzni İptal Et</target>
+    </segment>
+  </unit>
+  <unit id="cancelled">
+    <segment>
+      <source>Cancelled</source>
+      <target>İptal Edildi</target>
+    </segment>
+  </unit>
+  <unit id="click_ok_to_confirm_leave_assignment">
+    <segment>
+      <source>Click OK to confirm leave assignment.</source>
+      <target>İzin atamasını onaylamak için Tamam'a tıklayın.</target>
+    </segment>
+  </unit>
+  <unit id="entitlement_situational_description">
+    <segment>
+      <source>These leave will be excluded from reports unless there's some activity. E.g. maternity leave, jury duty leave.</source>
+      <target>Bu izinler, bir aktivite olmadığı sürece raporlarda yer almaz. Örneğin: doğum izni, jüri görevi izni.</target>
+    </segment>
+  </unit>
+  <unit id="failed_to_submit">
+    <segment>
+      <source>Failed to Submit</source>
+      <target>Gönderilemedi</target>
+    </segment>
+  </unit>
+  <unit id="failed_to_submit_no_working_days_selected">
+    <segment>
+      <source>Failed to Submit: No Working Days Selected</source>
+      <target>Gönderilemedi: İş Günü Seçilmedi</target>
+    </segment>
+  </unit>
+  <unit id="following_year">
+    <segment>
+      <source>Following Year</source>
+      <target>Takip Eden Yıl</target>
+    </segment>
+  </unit>
+  <unit id="full_day">
+    <segment>
+      <source>Full Day</source>
+      <target>Tam Gün</target>
+    </segment>
+  </unit>
+  <unit id="full_day_half_day">
+    <segment>
+      <source>Full Day/ Half Day</source>
+      <target>Tam Gün/ Yarım Gün</target>
+    </segment>
+  </unit>
+  <unit id="generate_for">
+    <segment>
+      <source>Generate For</source>
+      <target>Şunun İçin Oluştur</target>
+    </segment>
+  </unit>
+  <unit id="half_day">
+    <segment>
+      <source>Half Day</source>
+      <target>Yarım Gün</target>
+    </segment>
+  </unit>
+  <unit id="half_day_evening">
+    <segment>
+      <source>Half Day - Afternoon</source>
+      <target>Yarım Gün - Öğleden Sonra</target>
+    </segment>
+  </unit>
+  <unit id="half_day_morning">
+    <segment>
+      <source>Half Day - Morning</source>
+      <target>Yarım Gün - Sabah</target>
+    </segment>
+  </unit>
+  <unit id="holidays">
+    <segment>
+      <source>Holidays</source>
+      <target>Tatiller</target>
+    </segment>
+  </unit>
+  <unit id="include_past_employees">
+    <segment>
+      <source>Include Past Employees</source>
+      <target>Geçmiş Çalışanları Dahil Et</target>
+    </segment>
+  </unit>
+  <unit id="individual_employee">
+    <segment>
+      <source>Individual Employee</source>
+      <target>Bireysel Çalışan</target>
+    </segment>
+  </unit>
+  <unit id="leave_period">
+    <segment>
+      <source>Leave Period</source>
+      <target>İzin Dönemi</target>
+    </segment>
+  </unit>
+  <unit id="leave_request_comments">
+    <segment>
+      <source>Leave Request Comments</source>
+      <target>İzin Talebi Yorumları</target>
+    </segment>
+  </unit>
+  <unit id="leave_request_details">
+    <segment>
+      <source>Leave Request Details</source>
+      <target>İzin Talebi Detayları</target>
+    </segment>
+  </unit>
+  <unit id="leave_scheduled_days">
+    <segment>
+      <source>Leave Scheduled (Days)</source>
+      <target>Planlanan İzin (Gün)</target>
+    </segment>
+  </unit>
+  <unit id="leave_status">
+    <segment>
+      <source>Leave Status</source>
+      <target>İzin Durumu</target>
+    </segment>
+  </unit>
+  <unit id="leave_taken_days">
+    <segment>
+      <source>Leave Taken (Days)</source>
+      <target>Kullanılan İzin (Gün)</target>
+    </segment>
+  </unit>
+  <unit id="leave_type">
+    <segment>
+      <source>Leave Type</source>
+      <target>İzin Türü</target>
+    </segment>
+  </unit>
+  <unit id="leave_types">
+    <segment>
+      <source>Leave Types</source>
+      <target>İzin Türleri</target>
+    </segment>
+  </unit>
+  <unit id="requested_for">
+    <segment>
+      <source>Leave requested for</source>
+      <target>Şunun için izin talep edildi</target>
+    </segment>
+  </unit>
+  <unit id="matching_employees">
+    <segment>
+      <source>Matching Employees</source>
+      <target>Eşleşen Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="multiple_employees">
+    <segment>
+      <source>Multiple Employees</source>
+      <target>Çoklu Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="no_leave_types_with_leave_balance">
+    <segment>
+      <source>No Leave Types with Leave Balance</source>
+      <target>İzin Bakiyesi Olan İzin Türü Yok</target>
+    </segment>
+  </unit>
+  <unit id="no_leave_types_defined">
+    <segment>
+      <source>No leave types defined</source>
+      <target>Tanımlı izin türü yok</target>
+    </segment>
+  </unit>
+  <unit id="no_of_hours">
+    <segment>
+      <source>No. of Hours</source>
+      <target>Saat Sayısı</target>
+    </segment>
+  </unit>
+  <unit id="non_working_day">
+    <segment>
+      <source>Non-working Day</source>
+      <target>İş Günü Olmayan Gün</target>
+    </segment>
+  </unit>
+  <unit id="number_of_days">
+    <segment>
+      <source>Number of Days</source>
+      <target>Gün Sayısı</target>
+    </segment>
+  </unit>
+  <unit id="old_entitlement">
+    <segment>
+      <source>Old Entitlement</source>
+      <target>Eski Hak</target>
+    </segment>
+  </unit>
+  <unit id="overlapping_leave_request_found">
+    <segment>
+      <source>Overlapping Leave Request(s) Found</source>
+      <target>Çakışan İzin Talebi(leri) Bulundu</target>
+    </segment>
+  </unit>
+  <unit id="partial_days">
+    <segment>
+      <source>Partial Days</source>
+      <target>Kısmi Günler</target>
+    </segment>
+  </unit>
+  <unit id="pending_approval">
+    <segment>
+      <source>Pending Approval</source>
+      <target>Onay Bekliyor</target>
+    </segment>
+  </unit>
+  <unit id="rejected">
+    <segment>
+      <source>Rejected</source>
+      <target>Reddedildi</target>
+    </segment>
+  </unit>
+  <unit id="repeats_annually">
+    <segment>
+      <source>Repeats Annually</source>
+      <target>Yıllık Tekrar</target>
+    </segment>
+  </unit>
+  <unit id="scheduled">
+    <segment>
+      <source>Scheduled</source>
+      <target>Planlandı</target>
+    </segment>
+  </unit>
+  <unit id="should_be_a_number_with_2_decimal_places">
+    <segment>
+      <source>Should be a number with upto 2 decimal places</source>
+      <target>En fazla 2 ondalık basamaklı bir sayı olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="show_leave_with_status">
+    <segment>
+      <source>Show Leave with Status</source>
+      <target>Durum ile İzinleri Göster</target>
+    </segment>
+  </unit>
+  <unit id="situational_leave">
+    <segment>
+      <source>Situational Leave</source>
+      <target>Durumsal İzin</target>
+    </segment>
+  </unit>
+  <unit id="specify_time">
+    <segment>
+      <source>Specify Time</source>
+      <target>Zaman Belirt</target>
+    </segment>
+  </unit>
+  <unit id="start_day">
+    <segment>
+      <source>Start Day</source>
+      <target>Başlangıç Günü</target>
+    </segment>
+  </unit>
+  <unit id="start_day_only">
+    <segment>
+      <source>Start Day Only</source>
+      <target>Yalnızca Başlangıç Günü</target>
+    </segment>
+  </unit>
+  <unit id="start_month">
+    <segment>
+      <source>Start Month</source>
+      <target>Başlangıç Ayı</target>
+    </segment>
+  </unit>
+  <unit id="start_and_end_day">
+    <segment>
+      <source>Start and End Day</source>
+      <target>Başlangıç ve Bitiş Günü</target>
+    </segment>
+  </unit>
+  <unit id="taken">
+    <segment>
+      <source>Taken</source>
+      <target>Kullanıldı</target>
+    </segment>
+  </unit>
+  <unit id="selected_leave_entitlement_applied_to_following_employees">
+    <segment>
+      <source>The selected leave entitlement will be applied to the following employees.</source>
+      <target>Seçilen izin hakkı aşağıdaki çalışanlara uygulanacaktır.</target>
+    </segment>
+  </unit>
+  <unit id="total_entitlement">
+    <segment>
+      <source>Total Entitlement</source>
+      <target>Toplam Hak</target>
+    </segment>
+  </unit>
+  <unit id="updating_entitlement">
+    <segment>
+      <source>Updating Entitlement</source>
+      <target>Hak Güncelleniyor</target>
+    </segment>
+  </unit>
+  <unit id="bulk_leave_action_confirm_message_one">
+    <segment>
+      <source>{action, select, APPROVE {{count, plural, =0 {You are about to Approve no Leave Requests} =1 {You are about to Approve 1 Leave Request} other {You are about to Approve # Leave Requests} }} REJECT {{count, plural, =0 {You are about to Reject no Leave Requests} =1 {You are about to Reject 1 Leave Request} other {You are about to Reject # Leave Requests} }} other {{count, plural, =0 {You are about to Cancel no Leave Requests} =1 {You are about to Cancel 1 Leave Request} other {You are about to Cancel # Leave Requests} }} }</source>
+      <target>{action, select, APPROVE {{count, plural, =0 {Hiçbir İzin Talebini Onaylamak Üzeresiniz} =1 {1 İzin Talebini Onaylamak Üzeresiniz} other {# İzin Talebini Onaylamak Üzeresiniz} }} REJECT {{count, plural, =0 {Hiçbir İzin Talebini Reddetmek Üzeresiniz} =1 {1 İzin Talebini Reddetmek Üzeresiniz} other {# İzin Talebini Reddetmek Üzeresiniz} }} other {{count, plural, =0 {Hiçbir İzin Talebini İptal Etmek Üzeresiniz} =1 {1 İzin Talebini İptal Etmek Üzeresiniz} other {# İzin Talebini İptal Etmek Üzeresiniz} }} }</target>
+    </segment>
+  </unit>
+</group>
+	<group id="time">
+  <unit id="actions_performed_on_the_timesheet">
+    <segment>
+      <source>Actions Performed on the Timesheet</source>
+      <target>Zaman Çizelgesi Üzerinde Gerçekleştirilen Eylemler</target>
+    </segment>
+  </unit>
+  <unit id="activities">
+    <segment>
+      <source>Activities</source>
+      <target>Faaliyetler</target>
+    </segment>
+  </unit>
+  <unit id="activity">
+    <segment>
+      <source>Activity</source>
+      <target>Faaliyet</target>
+    </segment>
+  </unit>
+  <unit id="activity_name">
+    <segment>
+      <source>Activity Name</source>
+      <target>Faaliyet Adı</target>
+    </segment>
+  </unit>
+  <unit id="add_customer">
+    <segment>
+      <source>Add Customer</source>
+      <target>Müşteri Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_project">
+    <segment>
+      <source>Add Project</source>
+      <target>Proje Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_project_activity">
+    <segment>
+      <source>Add Project Activity</source>
+      <target>Proje Faaliyeti Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_row">
+    <segment>
+      <source>Add Row</source>
+      <target>Satır Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_timesheet">
+    <segment>
+      <source>Add Timesheet</source>
+      <target>Zaman Çizelgesi Ekle</target>
+    </segment>
+  </unit>
+  <unit id="approved">
+    <segment>
+      <source>Approved</source>
+      <target>Onaylandı</target>
+    </segment>
+  </unit>
+  <unit id="copy_activity">
+    <segment>
+      <source>Copy Activity</source>
+      <target>Faaliyeti Kopyala</target>
+    </segment>
+  </unit>
+  <unit id="copy_from">
+    <segment>
+      <source>Copy From</source>
+      <target>Buradan Kopyala</target>
+    </segment>
+  </unit>
+  <unit id="create_timesheet">
+    <segment>
+      <source>Create Timesheet</source>
+      <target>Zaman Çizelgesi Oluştur</target>
+    </segment>
+  </unit>
+  <unit id="customer_name">
+    <segment>
+      <source>Customer Name</source>
+      <target>Müşteri Adı</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_period_config">
+    <segment>
+      <source>Define Timesheet Period</source>
+      <target>Zaman Çizelgesi Dönemini Tanımla</target>
+    </segment>
+  </unit>
+  <unit id="duplicate_record">
+    <segment>
+      <source>Duplicate Record</source>
+      <target>Yinelenen Kayıt</target>
+    </segment>
+  </unit>
+  <unit id="edit_customer">
+    <segment>
+      <source>Edit Customer</source>
+      <target>Müşteriyi Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_project">
+    <segment>
+      <source>Edit Project</source>
+      <target>Projeyi Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_project_activity">
+    <segment>
+      <source>Edit Project Activity</source>
+      <target>Proje Faaliyetini Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_timesheet">
+    <segment>
+      <source>Edit Timesheet</source>
+      <target>Zaman Çizelgesini Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_timesheet_for">
+    <segment>
+      <source>Edit Timesheet for</source>
+      <target>İçin Zaman Çizelgesini Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="employee_report">
+    <segment>
+      <source>Employee Report</source>
+      <target>Çalışan Raporu</target>
+    </segment>
+  </unit>
+  <unit id="add_timesheet_period_config">
+    <segment>
+      <source>First Day of the Week</source>
+      <target>Haftanın İlk Günü</target>
+    </segment>
+  </unit>
+  <unit id="my_timesheet">
+    <segment>
+      <source>My Timesheet</source>
+      <target>Zaman Çizelgem</target>
+    </segment>
+  </unit>
+  <unit id="no_timesheets_found">
+    <segment>
+      <source>No Timesheets Found</source>
+      <target>Zaman Çizelgesi Bulunamadı</target>
+    </segment>
+  </unit>
+  <unit id="no_activities_selected">
+    <segment>
+      <source>No activities selected</source>
+      <target>Hiçbir faaliyet seçilmedi</target>
+    </segment>
+  </unit>
+  <unit id="no_assigned_activities">
+    <segment>
+      <source>No assigned activities</source>
+      <target>Atanmış faaliyet yok</target>
+    </segment>
+  </unit>
+  <unit id="not_allowed_to_delete_project_activities_which_have_time_logged_against">
+    <segment>
+      <source>Not Allowed to Delete Project Activities Which Have Time Logged Against</source>
+      <target>Zaman Kaydı Olan Proje Faaliyetlerini Silmek İçin İzin Verilmiyor</target>
+    </segment>
+  </unit>
+  <unit id="not_submitted">
+    <segment>
+      <source>Not Submitted</source>
+      <target>Gönderilmedi</target>
+    </segment>
+  </unit>
+  <unit id="not_allowed_to_delete_customer_who_have_time_logged_against">
+    <segment>
+      <source>Not allowed to delete customer(s) associated with projects that have time logged against them</source>
+      <target>Zaman kaydı olan projelerle ilişkili müşterileri silmek için izin verilmiyor</target>
+    </segment>
+  </unit>
+  <unit id="not_allowed_to_delete_projects_which_have_time_logged">
+    <segment>
+      <source>Not allowed to delete project(s) which have time logged against them</source>
+      <target>Zaman kaydı olan projeleri silmek için izin verilmiyor</target>
+    </segment>
+  </unit>
+  <unit id="only_include_approved_timesheets">
+    <segment>
+      <source>Only Include Approved Timesheets</source>
+      <target>Yalnızca Onaylı Zaman Çizelgelerini Dahil Et</target>
+    </segment>
+  </unit>
+  <unit id="project">
+    <segment>
+      <source>Project</source>
+      <target>Proje</target>
+    </segment>
+  </unit>
+  <unit id="project_admin">
+    <segment>
+      <source>Project Admin</source>
+      <target>Proje Yöneticisi</target>
+    </segment>
+  </unit>
+  <unit id="project_admins">
+    <segment>
+      <source>Project Admins</source>
+      <target>Proje Yöneticileri</target>
+    </segment>
+  </unit>
+  <unit id="project_date_range">
+    <segment>
+      <source>Project Date Range</source>
+      <target>Proje Tarih Aralığı</target>
+    </segment>
+  </unit>
+  <unit id="project_name">
+    <segment>
+      <source>Project Name</source>
+      <target>Proje Adı</target>
+    </segment>
+  </unit>
+  <unit id="project_report">
+    <segment>
+      <source>Project Report</source>
+      <target>Proje Raporu</target>
+    </segment>
+  </unit>
+  <unit id="punch_out_time_should_be_later_than_punch_in_time">
+    <segment>
+      <source>Punch Out Time Should Be Later Than Punch In Time</source>
+      <target>Çıkış Saati, Giriş Saatinden Daha Geç Olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="select_employee">
+    <segment>
+      <source>Select Employee</source>
+      <target>Çalışan Seç</target>
+    </segment>
+  </unit>
+  <unit id="select_a_day_to_create_timesheet">
+    <segment>
+      <source>Select a Day to Create Timesheet</source>
+      <target>Zaman Çizelgesi Oluşturmak İçin Bir Gün Seç</target>
+    </segment>
+  </unit>
+  <unit id="select_a_project">
+    <segment>
+      <source>Select a Project</source>
+      <target>Bir Proje Seç</target>
+    </segment>
+  </unit>
+  <unit id="select_a_project_and_an_activity">
+    <segment>
+      <source>Select a Project and an Activity</source>
+      <target>Bir Proje ve Bir Faaliyet Seç</target>
+    </segment>
+  </unit>
+  <unit id="select_an_activity">
+    <segment>
+      <source>Select an Activity</source>
+      <target>Bir Faaliyet Seç</target>
+    </segment>
+  </unit>
+  <unit id="should_be_less_than_24_and_in_hh_mm_or_decimal_format">
+    <segment>
+      <source>Should Be Less Than 24 and in HH:MM or Decimal Format</source>
+      <target>24'ten Küçük Olmalı ve HH:MM veya Ondalık Formatında Olmalı</target>
+    </segment>
+  </unit>
+  <unit id="submitted">
+    <segment>
+      <source>Submitted</source>
+      <target>Gönderildi</target>
+    </segment>
+  </unit>
+  <unit id="time_hours">
+    <segment>
+      <source>Time (Hours)</source>
+      <target>Zaman (Saat)</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_action">
+    <segment>
+      <source>Timesheet Action</source>
+      <target>Zaman Çizelgesi Eylemi</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_approved">
+    <segment>
+      <source>Timesheet Approved</source>
+      <target>Zaman Çizelgesi Onaylandı</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_period">
+    <segment>
+      <source>Timesheet Period</source>
+      <target>Zaman Çizelgesi Dönemi</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_period_not_defined">
+    <segment>
+      <source>Timesheet Period Start Day has not being defined. Please Contact the HR Administrator</source>
+      <target>Zaman Çizelgesi Dönemi Başlangıç Günü tanımlanmamıştır. Lütfen İnsan Kaynakları Yöneticisine başvurun</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_rejected">
+    <segment>
+      <source>Timesheet Rejected</source>
+      <target>Zaman Çizelgesi Reddedildi</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_reset">
+    <segment>
+      <source>Timesheet Reset</source>
+      <target>Zaman Çizelgesi Sıfırlandı</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_submitted">
+    <segment>
+      <source>Timesheet Submitted</source>
+      <target>Zaman Çizelgesi Gönderildi</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_successfully_created">
+    <segment>
+      <source>Timesheet Successfully Created</source>
+      <target>Zaman Çizelgesi Başarıyla Oluşturuldu</target>
+    </segment>
+  </unit>
+  <unit id="timesheet_for">
+    <segment>
+      <source>Timesheet for</source>
+      <target>İçin Zaman Çizelgesi</target>
+    </segment>
+  </unit>
+  <unit id="timesheets_pending_action">
+    <segment>
+      <source>Timesheets Pending Action</source>
+      <target>Eylem Bekleyen Zaman Çizelgeleri</target>
+    </segment>
+  </unit>
+  <unit id="total_duration">
+    <segment>
+      <source>Total Duration (Hours)</source>
+      <target>Toplam Süre (Saat)</target>
+    </segment>
+  </unit>
+  <unit id="total_should_be_less_than_24_hours">
+    <segment>
+      <source>Total Should Be Less Than 24 Hours</source>
+      <target>Toplam 24 Saatten Az Olmalıdır</target>
+    </segment>
+  </unit>
+</group>
+	<group id="recruitment">
+  <unit id="active_job_vacancies">
+    <segment>
+      <source>Active Job Vacancies</source>
+      <target>Aktif İş İlanları</target>
+    </segment>
+  </unit>
+  <unit id="add_candidate">
+    <segment>
+      <source>Add Candidate</source>
+      <target>Aday Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_vacancy">
+    <segment>
+      <source>Add Vacancy</source>
+      <target>İş İlanı Ekle</target>
+    </segment>
+  </unit>
+  <unit id="application_initiated">
+    <segment>
+      <source>Application Initiated</source>
+      <target>Başvuru Başlatıldı</target>
+    </segment>
+  </unit>
+  <unit id="application_received">
+    <segment>
+      <source>Application Received</source>
+      <target>Başvuru Alındı</target>
+    </segment>
+  </unit>
+  <unit id="application_stage">
+    <segment>
+      <source>Application Stage</source>
+      <target>Başvuru Aşaması</target>
+    </segment>
+  </unit>
+  <unit id="apply_for_n_vacancy">
+    <segment>
+      <source>Apply for {vacancyName}</source>
+      <target>{vacancyName} için Başvur</target>
+    </segment>
+  </unit>
+  <unit id="candidate">
+    <segment>
+      <source>Candidate</source>
+      <target>Aday</target>
+    </segment>
+  </unit>
+  <unit id="candidate_history">
+    <segment>
+      <source>Candidate History</source>
+      <target>Aday Geçmişi</target>
+    </segment>
+  </unit>
+  <unit id="candidate_name">
+    <segment>
+      <source>Candidate Name</source>
+      <target>Aday Adı</target>
+    </segment>
+  </unit>
+  <unit id="candidate_profile">
+    <segment>
+      <source>Candidate Profile</source>
+      <target>Aday Profili</target>
+    </segment>
+  </unit>
+  <unit id="consent_to_keep_data">
+    <segment>
+      <source>Consent to keep data</source>
+      <target>Verileri saklamak için izin</target>
+    </segment>
+  </unit>
+  <unit id="contact_number">
+    <segment>
+      <source>Contact Number</source>
+      <target>İletişim Numarası</target>
+    </segment>
+  </unit>
+  <unit id="current_status">
+    <segment>
+      <source>Current Status</source>
+      <target>Mevcut Durum</target>
+    </segment>
+  </unit>
+  <unit id="date_of_application">
+    <segment>
+      <source>Date of Application</source>
+      <target>Başvuru Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="decline_offer">
+    <segment>
+      <source>Decline Offer</source>
+      <target>Teklifi Reddet</target>
+    </segment>
+  </unit>
+  <unit id="edit_vacancy">
+    <segment>
+      <source>Edit Vacancy</source>
+      <target>İş İlanını Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="enter_comma_seperated_words">
+    <segment>
+      <source>Enter comma seperated words</source>
+      <target>Virgülle ayrılmış kelimeler girin</target>
+    </segment>
+  </unit>
+  <unit id="hire">
+    <segment>
+      <source>Hire</source>
+      <target>İşe Al</target>
+    </segment>
+  </unit>
+  <unit id="hire_candidate">
+    <segment>
+      <source>Hire Candidate</source>
+      <target>Adayı İşe Al</target>
+    </segment>
+  </unit>
+  <unit id="hired">
+    <segment>
+      <source>Hired</source>
+      <target>İşe Alındı</target>
+    </segment>
+  </unit>
+  <unit id="hiring_manager">
+    <segment>
+      <source>Hiring Manager</source>
+      <target>İşe Alma Yöneticisi</target>
+    </segment>
+  </unit>
+  <unit id="interview_failed">
+    <segment>
+      <source>Interview Failed</source>
+      <target>Mülakat Başarısız</target>
+    </segment>
+  </unit>
+  <unit id="interview_passed">
+    <segment>
+      <source>Interview Passed</source>
+      <target>Mülakat Başarılı</target>
+    </segment>
+  </unit>
+  <unit id="interview_scheduled">
+    <segment>
+      <source>Interview Scheduled</source>
+      <target>Mülakat Planlandı</target>
+    </segment>
+  </unit>
+  <unit id="interview_title">
+    <segment>
+      <source>Interview Title</source>
+      <target>Mülakat Başlığı</target>
+    </segment>
+  </unit>
+  <unit id="interviewer">
+    <segment>
+      <source>Interviewer</source>
+      <target>Mülakat Yapan Kişi</target>
+    </segment>
+  </unit>
+  <unit id="job_offered">
+    <segment>
+      <source>Job Offered</source>
+      <target>İş Teklif Edildi</target>
+    </segment>
+  </unit>
+  <unit id="job_vacancy">
+    <segment>
+      <source>Job Vacancy</source>
+      <target>İş İlanı</target>
+    </segment>
+  </unit>
+  <unit id="keywords">
+    <segment>
+      <source>Keywords</source>
+      <target>Anahtar Kelimeler</target>
+    </segment>
+  </unit>
+  <unit id="manual">
+    <segment>
+      <source>Manual</source>
+      <target>Manuel</target>
+    </segment>
+  </unit>
+  <unit id="mark_interview_failed">
+    <segment>
+      <source>Mark Interview Failed</source>
+      <target>Mülakatı Başarısız Olarak İşaretle</target>
+    </segment>
+  </unit>
+  <unit id="mark_interview_passed">
+    <segment>
+      <source>Mark Interview Passed</source>
+      <target>Mülakatı Başarılı Olarak İşaretle</target>
+    </segment>
+  </unit>
+  <unit id="method_of_application">
+    <segment>
+      <source>Method of Application</source>
+      <target>Başvuru Yöntemi</target>
+    </segment>
+  </unit>
+  <unit id="num_of_positions">
+    <segment>
+      <source>Number of Positions</source>
+      <target>Pozisyon Sayısı</target>
+    </segment>
+  </unit>
+  <unit id="offer_declined">
+    <segment>
+      <source>Offer Declined</source>
+      <target>Teklif Reddedildi</target>
+    </segment>
+  </unit>
+  <unit id="offer_job">
+    <segment>
+      <source>Offer Job</source>
+      <target>İş Teklif Et</target>
+    </segment>
+  </unit>
+  <unit id="online">
+    <segment>
+      <source>Online</source>
+      <target>Çevrimiçi</target>
+    </segment>
+  </unit>
+  <unit id="performed_action">
+    <segment>
+      <source>Performed Action</source>
+      <target>Gerçekleştirilen Eylem</target>
+    </segment>
+  </unit>
+  <unit id="performed_date">
+    <segment>
+      <source>Performed Date</source>
+      <target>Gerçekleşme Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="powered_by">
+    <segment>
+      <source>Powered By</source>
+      <target>Tarafından Desteklenmektedir</target>
+    </segment>
+  </unit>
+  <unit id="publish_in_rss_feed_and_web_page">
+    <segment>
+      <source>Publish in RSS Feed and Web Page</source>
+      <target>RSS Beslemesinde ve Web Sayfasında Yayınla</target>
+    </segment>
+  </unit>
+  <unit id="rss_feed_url">
+    <segment>
+      <source>RSS Feed URL</source>
+      <target>RSS Besleme URL'si</target>
+    </segment>
+  </unit>
+  <unit id="reject_candidate">
+    <segment>
+      <source>Reject Candidate</source>
+      <target>Adayı Reddet</target>
+    </segment>
+  </unit>
+  <unit id="resume">
+    <segment>
+      <source>Resume</source>
+      <target>Özgeçmiş</target>
+    </segment>
+  </unit>
+  <unit id="schedule_interview">
+    <segment>
+      <source>Schedule Interview</source>
+      <target>Mülakat Planla</target>
+    </segment>
+  </unit>
+  <unit id="shortlist">
+    <segment>
+      <source>Shortlist</source>
+      <target>Kısa Liste</target>
+    </segment>
+  </unit>
+  <unit id="shortlist_candidate">
+    <segment>
+      <source>Shortlist Candidate</source>
+      <target>Adayı Kısa Listeye Al</target>
+    </segment>
+  </unit>
+  <unit id="shortlisted">
+    <segment>
+      <source>Shortlisted</source>
+      <target>Kısa Listeye Alındı</target>
+    </segment>
+  </unit>
+  <unit id="candidate_shortlisted_for_vacancy_by_employee">
+    <segment>
+      <source>Shortlisted for {vacancy} by {employee}</source>
+      <target>{employee} tarafından {vacancy} için kısa listeye alındı</target>
+    </segment>
+  </unit>
+  <unit id="should_be_current_date_previous_date">
+    <segment>
+      <source>Should be the current date or a previous date</source>
+      <target>Geçerli tarih veya önceki bir tarih olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="candidate_vacancy_change_message">
+    <segment>
+      <source>This action will remove previous vacancy. Are you sure you want to continue?</source>
+      <target>Bu eylem önceki iş ilanını kaldıracaktır. Devam etmek istediğinize emin misiniz?</target>
+    </segment>
+  </unit>
+  <unit id="vacancy">
+    <segment>
+      <source>Vacancy</source>
+      <target>İş İlanı</target>
+    </segment>
+  </unit>
+  <unit id="vacancy_name">
+    <segment>
+      <source>Vacancy Name</source>
+      <target>İş İlanı Adı</target>
+    </segment>
+  </unit>
+  <unit id="view_action_history">
+    <segment>
+      <source>View Action History</source>
+      <target>Eylem Geçmişini Görüntüle</target>
+    </segment>
+  </unit>
+  <unit id="web_page_url">
+    <segment>
+      <source>Web Page URL</source>
+      <target>Web Sayfası URL'si</target>
+    </segment>
+  </unit>
+  <unit id="your_application_has_been_submitted_successfully">
+    <segment>
+      <source>Your application has been submitted successfully</source>
+      <target>Başvurunuz başarıyla gönderildi</target>
+    </segment>
+  </unit>
+  <unit id="candidate_applied_for_the_vacancy">
+    <segment>
+      <source>{candidate} applied for the vacancy {vacancy}</source>
+      <target>{candidate}, {vacancy} için başvurdu</target>
+    </segment>
+  </unit>
+  <unit id="employee_added_candidate">
+    <segment>
+      <source>{employee} added {candidate}</source>
+      <target>{employee}, {candidate} ekledi</target>
+    </segment>
+  </unit>
+  <unit id="employee_assigned_vacancy_to_candidate">
+    <segment>
+      <source>{employee} assigned the job vacancy {vacancy}</source>
+      <target>{employee}, iş ilanı {vacancy} atadı</target>
+    </segment>
+  </unit>
+  <unit id="employee_hired_the_candidate">
+    <segment>
+      <source>{employee} hired {candidate} for {vacancy}</source>
+      <target>{employee}, {candidate} kişisini {vacancy} için işe aldı</target>
+    </segment>
+  </unit>
+  <unit id="employee_marked_the_offer_declined">
+    <segment>
+      <source>{employee} marked the offer as declined for {vacancy}</source>
+      <target>{employee}, teklifi {vacancy} için reddedildi olarak işaretledi</target>
+    </segment>
+  </unit>
+  <unit id="employee_marked_interveiw_failed">
+    <segment>
+      <source>{employee} marked {interview} as failed for {vacancy}</source>
+      <target>{employee}, {interview} mülakatını {vacancy} için başarısız olarak işaretledi</target>
+    </segment>
+  </unit>
+      <unit id="employee_marked_interveiw_passed">
+        <segment>
+          <source>{employee} marked {interview} as passed for {vacancy}</source>
+          <target>{employee}, {interview} mülakatını {vacancy} için başarılı olarak işaretledi</target>
+        </segment>
+      </unit>
+      <unit id="employee_offered_the_job">
+        <segment>
+          <source>{employee} offered the job for {vacancy}</source>
+          <target>{employee}, {vacancy} için iş teklif etti</target>
+        </segment>
+      </unit>
+      <unit id="employee_rejected_the_candidate">
+        <segment>
+          <source>{employee} rejected {candidate} from the {vacancy}</source>
+          <target>{employee}, {candidate} kişisini {vacancy} için reddetti</target>
+        </segment>
+      </unit>
+      <unit id="employee_removed_candidate_from_vacancy">
+        <segment>
+          <source>{employee} removed {candidate} from the {vacancy}</source>
+          <target>{employee}, {candidate} kişisini {vacancy} iş ilanından kaldırdı</target>
+        </segment>
+      </unit>
+      <unit id="employee_schedule_interview_with_interviewers">
+        <segment>
+          <source>{employee} scheduled {interview} on {interviewDate} with {interviewers} for {vacancy}</source>
+          <target>{employee}, {vacancy} için {interviewers} ile {interviewDate} tarihinde {interview} mülakatını planladı</target>
+        </segment>
+      </unit>
+    </group>
+	<group id="performance">
+  <unit id="activate">
+    <segment>
+      <source>Activate</source>
+      <target>Etkinleştir</target>
+    </segment>
+  </unit>
+  <unit id="activated">
+    <segment>
+      <source>Activated</source>
+      <target>Etkinleştirildi</target>
+    </segment>
+  </unit>
+  <unit id="add_key_performance_indicator">
+    <segment>
+      <source>Add Key Performance Indicator</source>
+      <target>Ana Performans Göstergesi Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_log">
+    <segment>
+      <source>Add Log</source>
+      <target>Log Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_performance_tracker">
+    <segment>
+      <source>Add Performance Tracker</source>
+      <target>Performans İzleyici Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_review">
+    <segment>
+      <source>Add Review</source>
+      <target>İnceleme Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_tracker_log">
+    <segment>
+      <source>Add Tracker Log</source>
+      <target>İzleyici Logu Ekle</target>
+    </segment>
+  </unit>
+  <unit id="added_date">
+    <segment>
+      <source>Added Date</source>
+      <target>Ekleme Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="added_on">
+    <segment>
+      <source>Added On</source>
+      <target>Eklenme Zamanı</target>
+    </segment>
+  </unit>
+  <unit id="cannot_activate_review_without_job_title_subdivision">
+    <segment>
+      <source>Cannot activate review for employees who doesn't have Job Title and/or Sub-Division</source>
+      <target>İş Ünvanı ve/veya Alt Bölümü olmayan çalışanlar için inceleme başlatılamaz</target>
+    </segment>
+  </unit>
+  <unit id="cannot_activate_review_for_employee_without_job_title_with_kpi">
+    <segment>
+      <source>Cannot activate review for employees who doesn't have a Job Title with KPI</source>
+      <target>KPI'si olmayan bir İş Ünvanına sahip çalışanlar için inceleme başlatılamaz</target>
+    </segment>
+  </unit>
+  <unit id="cannot_activate_review_without_kpi">
+    <segment>
+      <source>Cannot activate review without KPIs</source>
+      <target>KPI olmadan inceleme başlatılamaz</target>
+    </segment>
+  </unit>
+  <unit id="cannot_add_a_past_employee_as_a_reviewer">
+    <segment>
+      <source>Cannot add a past employee as a reviewer</source>
+      <target>Geçmiş bir çalışan inceleme yapan kişi olarak eklenemez</target>
+    </segment>
+  </unit>
+  <unit id="cannot_add_a_past_employee_as_reviewer">
+    <segment>
+      <source>Cannot add a past employee as reviewer</source>
+      <target>Geçmiş bir çalışan inceleme yapan kişi olarak atanamaz</target>
+    </segment>
+  </unit>
+  <unit id="complete">
+    <segment>
+      <source>Complete</source>
+      <target>Tamamla</target>
+    </segment>
+  </unit>
+  <unit id="completed">
+    <segment>
+      <source>Completed</source>
+      <target>Tamamlandı</target>
+    </segment>
+  </unit>
+  <unit id="confirm_review_submission">
+    <segment>
+      <source>Confirm Review Submission</source>
+      <target>İnceleme Gönderimini Onayla</target>
+    </segment>
+  </unit>
+  <unit id="date_of_completion">
+    <segment>
+      <source>Date of Completion</source>
+      <target>Tamamlanma Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="delete">
+    <segment>
+      <source>Delete</source>
+      <target>Sil</target>
+    </segment>
+  </unit>
+  <unit id="due_date">
+    <segment>
+      <source>Due Date</source>
+      <target>Bitiş Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="due_date_should_be_after_review_period_end_date">
+    <segment>
+      <source>Due date should be after period end date</source>
+      <target>Bitiş tarihi, dönem bitiş tarihinden sonra olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="edit_key_performance_indicator">
+    <segment>
+      <source>Edit Key Performance Indicator</source>
+      <target>Ana Performans Göstergesini Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_performance_tracker">
+    <segment>
+      <source>Edit Performance Tracker</source>
+      <target>Performans İzleyiciyi Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_review">
+    <segment>
+      <source>Edit Review</source>
+      <target>İncelemeyi Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_tracker_log">
+    <segment>
+      <source>Edit Tracker Log</source>
+      <target>İzleyici Logunu Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="employee_performance_trackers">
+    <segment>
+      <source>Employee Performance Trackers</source>
+      <target>Çalışan Performans İzleyicileri</target>
+    </segment>
+  </unit>
+  <unit id="employee_reviews">
+    <segment>
+      <source>Employee Reviews</source>
+      <target>Çalışan İncelemeleri</target>
+    </segment>
+  </unit>
+  <unit id="employee_cannot_be_assigned_as_his_own_reviewer">
+    <segment>
+      <source>Employee cannot be assigned as his own reviewer</source>
+      <target>Çalışan kendi inceleme yapan kişi olarak atanamaz</target>
+    </segment>
+  </unit>
+  <unit id="evaluate">
+    <segment>
+      <source>Evaluate</source>
+      <target>Değerlendir</target>
+    </segment>
+  </unit>
+  <unit id="evaluation_activated">
+    <segment>
+      <source>Evaluation Activated</source>
+      <target>Değerlendirme Etkinleştirildi</target>
+    </segment>
+  </unit>
+  <unit id="evaluation_completed">
+    <segment>
+      <source>Evaluation Completed</source>
+      <target>Değerlendirme Tamamlandı</target>
+    </segment>
+  </unit>
+  <unit id="evaluation_in_progress">
+    <segment>
+      <source>Evaluation In Progress</source>
+      <target>Değerlendirme Devam Ediyor</target>
+    </segment>
+  </unit>
+  <unit id="final_comments">
+    <segment>
+      <source>Final Comments</source>
+      <target>Son Yorumlar</target>
+    </segment>
+  </unit>
+  <unit id="final_rating">
+    <segment>
+      <source>Final Rating</source>
+      <target>Son Derecelendirme</target>
+    </segment>
+  </unit>
+  <unit id="general_comment">
+    <segment>
+      <source>General Comment</source>
+      <target>Genel Yorum</target>
+    </segment>
+  </unit>
+  <unit id="in_progress">
+    <segment>
+      <source>In Progress</source>
+      <target>Devam Ediyor</target>
+    </segment>
+  </unit>
+  <unit id="inactive">
+    <segment>
+      <source>Inactive</source>
+      <target>Pasif</target>
+    </segment>
+  </unit>
+  <unit id="is_default">
+    <segment>
+      <source>Is Default</source>
+      <target>Varsayılan mı</target>
+    </segment>
+  </unit>
+  <unit id="kpi">
+    <segment>
+      <source>KPI</source>
+      <target>KPI</target>
+    </segment>
+  </unit>
+  <unit id="key_performance_indicator">
+    <segment>
+      <source>Key Performance Indicator</source>
+      <target>Ana Performans Göstergesi</target>
+    </segment>
+  </unit>
+  <unit id="key_performance_indicators_for_job_title">
+    <segment>
+      <source>Key Performance Indicators for Job Title</source>
+      <target>İş Ünvanı İçin Ana Performans Göstergeleri</target>
+    </segment>
+  </unit>
+  <unit id="log">
+    <segment>
+      <source>Log</source>
+      <target>Log</target>
+    </segment>
+  </unit>
+  <unit id="make_default_scale">
+    <segment>
+      <source>Make Default Scale</source>
+      <target>Varsayılan Ölçek Yap</target>
+    </segment>
+  </unit>
+  <unit id="manage_performance_reviews">
+    <segment>
+      <source>Manage Performance Reviews</source>
+      <target>Performans İncelemelerini Yönet</target>
+    </segment>
+  </unit>
+  <unit id="max">
+    <segment>
+      <source>Max</source>
+      <target>Maks</target>
+    </segment>
+  </unit>
+  <unit id="max_rate">
+    <segment>
+      <source>Max Rate</source>
+      <target>Maksimum Oran</target>
+    </segment>
+  </unit>
+  <unit id="maximum_rating">
+    <segment>
+      <source>Maximum Rating</source>
+      <target>Maksimum Derecelendirme</target>
+    </segment>
+  </unit>
+  <unit id="maximum_rating_should_be_greater_than_minimum_rating">
+    <segment>
+      <source>Maximum Rating should be greater than Minimum Rating</source>
+      <target>Maksimum Derecelendirme, Minimum Derecelendirmeden büyük olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="min">
+    <segment>
+      <source>Min</source>
+      <target>Min</target>
+    </segment>
+  </unit>
+  <unit id="min_rate">
+    <segment>
+      <source>Min Rate</source>
+      <target>Minimum Oran</target>
+    </segment>
+  </unit>
+  <unit id="minimum_rating">
+    <segment>
+      <source>Minimum Rating</source>
+      <target>Minimum Derecelendirme</target>
+    </segment>
+  </unit>
+  <unit id="minimum_rating_should_be_less_than_maximum_rating">
+    <segment>
+      <source>Minimum Rating should be less than Maximum Rating</source>
+      <target>Minimum Derecelendirme, Maksimum Derecelendirmeden küçük olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="modified_date">
+    <segment>
+      <source>Modified Date</source>
+      <target>Değiştirilme Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="modified_on">
+    <segment>
+      <source>Modified On</source>
+      <target>Değiştirilme Zamanı</target>
+    </segment>
+  </unit>
+  <unit id="my_performance_trackers">
+    <segment>
+      <source>My Performance Trackers</source>
+      <target>Benim Performans İzleyicilerim</target>
+    </segment>
+  </unit>
+  <unit id="negative">
+    <segment>
+      <source>Negative</source>
+      <target>Negatif</target>
+    </segment>
+  </unit>
+  <unit id="performance_review">
+    <segment>
+      <source>Performance Review</source>
+      <target>Performans İncelemesi</target>
+    </segment>
+  </unit>
+  <unit id="performance_trackers">
+    <segment>
+      <source>Performance Trackers</source>
+      <target>Performans İzleyicileri</target>
+    </segment>
+  </unit>
+  <unit id="positive">
+    <segment>
+      <source>Positive</source>
+      <target>Pozitif</target>
+    </segment>
+  </unit>
+  <unit id="rating">
+    <segment>
+      <source>Rating</source>
+      <target>Derecelendirme</target>
+    </segment>
+  </unit>
+  <unit id="rating_should_be_greater_than_or_equal_to_minValue">
+    <segment>
+      <source>Rating should be greater than or equal to {minValue}</source>
+      <target>Derecelendirme {minValue} değerinden büyük veya eşit olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="rating_should_be_less_than_or_equal_to_maxValue">
+    <segment>
+      <source>Rating should be less than or equal to {maxValue}</source>
+      <target>Derecelendirme {maxValue} değerinden küçük veya eşit olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="review_due_date">
+    <segment>
+      <source>Review Due Date</source>
+      <target>İnceleme Bitiş Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="review_finalization">
+    <segment>
+      <source>Review Finalization</source>
+      <target>İnceleme Sonlandırması</target>
+    </segment>
+  </unit>
+  <unit id="review_period">
+    <segment>
+      <source>Review Period</source>
+      <target>İnceleme Dönemi</target>
+    </segment>
+  </unit>
+  <unit id="review_period_end_date">
+    <segment>
+      <source>Review Period End Date</source>
+      <target>İnceleme Dönemi Bitiş Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="review_period_start_date">
+    <segment>
+      <source>Review Period Start Date</source>
+      <target>İnceleme Dönemi Başlangıç Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="review_status">
+    <segment>
+      <source>Review Status</source>
+      <target>İnceleme Durumu</target>
+    </segment>
+  </unit>
+  <unit id="review_summary">
+    <segment>
+      <source>Review Summary</source>
+      <target>İnceleme Özeti</target>
+    </segment>
+  </unit>
+  <unit id="review_period_end_date_should_be_after_start_date">
+    <segment>
+      <source>Review period end date should be after period start date</source>
+      <target>İnceleme dönemi bitiş tarihi, başlangıç tarihinden sonra olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="review_period_start_date_should_be_before_end_date">
+    <segment>
+      <source>Review period start date should be before period end date</source>
+      <target>İnceleme dönemi başlangıç tarihi, bitiş tarihinden önce olmalıdır</target>
+    </segment>
+  </unit>
+  <unit id="reviewer">
+    <segment>
+      <source>Reviewer</source>
+      <target>İnceleme Yapan Kişi</target>
+    </segment>
+  </unit>
+  <unit id="reviewers">
+    <segment>
+      <source>Reviewers</source>
+      <target>İnceleme Yapan Kişiler</target>
+    </segment>
+  </unit>
+  <unit id="selected_supervisor_for_reviewer_is_invalid">
+    <segment>
+      <source>Selected supervisor for reviewer is invalid</source>
+      <target>Seçilen inceleme yöneticisi geçersiz</target>
+    </segment>
+  </unit>
+  <unit id="self_evaluation_status">
+    <segment>
+      <source>Self Evaluation Status</source>
+      <target>Kendini Değerlendirme Durumu</target>
+    </segment>
+  </unit>
+  <unit id="self_evaluation_by">
+    <segment>
+      <source>Self Evaluation by</source>
+      <target>Tarafından Kendini Değerlendirme</target>
+    </segment>
+  </unit>
+  <unit id="supervisor_evaluation_by">
+    <segment>
+      <source>Supervisor Evaluation by</source>
+      <target>Yönetici Tarafından Değerlendirme</target>
+    </segment>
+  </unit>
+  <unit id="supervisor_reviewer">
+    <segment>
+      <source>Supervisor Reviewer</source>
+      <target>Yönetici İnceleme Yapan Kişi</target>
+    </segment>
+  </unit>
+  <unit id="confirm_review_submission_message">
+    <segment>
+      <source>The review will be made read-only after completion. This action cannot be undone. Are you sure you want to continue?</source>
+      <target>İnceleme tamamlandıktan sonra salt okunur hale getirilecektir. Bu işlem geri alınamaz. Devam etmek istediğinize emin misiniz?</target>
+    </segment>
+  </unit>
+  <unit id="tracker">
+    <segment>
+      <source>Tracker</source>
+      <target>İzleyici</target>
+    </segment>
+  </unit>
+  <unit id="tracker_logs">
+    <segment>
+      <source>Tracker Logs</source>
+      <target>İzleyici Logları</target>
+    </segment>
+  </unit>
+  <unit id="tracker_name">
+    <segment>
+      <source>Tracker Name</source>
+      <target>İzleyici Adı</target>
+    </segment>
+  </unit>
+</group>
+	<group id="dashboard">
+  <unit id="buzz_latest_posts">
+    <segment>
+      <source>Buzz Latest Posts</source>
+      <target>Buzz Son Gönderiler</target>
+    </segment>
+  </unit>
+  <unit id="configurations">
+    <segment>
+      <source>Configurations</source>
+      <target>Yapılandırmalar</target>
+    </segment>
+  </unit>
+  <unit id="employee_distribution_by_location">
+    <segment>
+      <source>Employee Distribution by Location</source>
+      <target>Konuma Göre Çalışan Dağılımı</target>
+    </segment>
+  </unit>
+  <unit id="employee_distribution_by_sub_unit">
+    <segment>
+      <source>Employee Distribution by Sub Unit</source>
+      <target>Alt Birime Göre Çalışan Dağılımı</target>
+    </segment>
+  </unit>
+  <unit id="employees_on_leave_today">
+    <segment>
+      <source>Employees on Leave Today</source>
+      <target>Bugün İzinli Çalışanlar</target>
+    </segment>
+  </unit>
+  <unit id="leave_period_not_defined">
+    <segment>
+      <source>Leave Period Not Defined</source>
+      <target>İzin Dönemi Tanımlanmamış</target>
+    </segment>
+  </unit>
+  <unit id="my_actions">
+    <segment>
+      <source>My Actions</source>
+      <target>İşlemlerim</target>
+    </segment>
+  </unit>
+  <unit id="no_employees_are_on_leave_today">
+    <segment>
+      <source>No Employees are on Leave Today</source>
+      <target>Bugün İzinli Çalışan Yok</target>
+    </segment>
+  </unit>
+  <unit id="no_pending_actions">
+    <segment>
+      <source>No Pending Actions to Perform</source>
+      <target>Yapılacak Bekleyen İşlem Yok</target>
+    </segment>
+  </unit>
+  <unit id="no_posts_added">
+    <segment>
+      <source>No Posts Added</source>
+      <target>Gönderi Eklenmemiş</target>
+    </segment>
+  </unit>
+  <unit id="not_available">
+    <segment>
+      <source>Not Available</source>
+      <target>Mevcut Değil</target>
+    </segment>
+  </unit>
+  <unit id="only_show_accessible_employees_on_leave_for_other_users">
+    <segment>
+      <source>Only show accessible employees on leave for other users</source>
+      <target>Diğer kullanıcılar için yalnızca erişilebilir izinli çalışanları göster</target>
+    </segment>
+  </unit>
+  <unit id="quick_launch">
+    <segment>
+      <source>Quick Launch</source>
+      <target>Hızlı Başlat</target>
+    </segment>
+  </unit>
+  <unit id="this_week">
+    <segment>
+      <source>This Week</source>
+      <target>Bu Hafta</target>
+    </segment>
+  </unit>
+  <unit id="time_at_work">
+    <segment>
+      <source>Time at Work</source>
+      <target>Çalışma Süresi</target>
+    </segment>
+  </unit>
+  <unit id="unassigned">
+    <segment>
+      <source>Unassigned</source>
+      <target>Atanmamış</target>
+    </segment>
+  </unit>
+  <unit id="state_today_at_time_timezone_offset">
+    <segment>
+      <source>{lastState}: Today at {time} (GMT {timezoneOffset})</source>
+      <target>{lastState}: Bugün saat {time} (GMT {timezoneOffset})</target>
+    </segment>
+  </unit>
+  <unit id="state_date_at_time_timezone_offset">
+    <segment>
+      <source>{lastState}: {date} at {time} (GMT {timezoneOffset})</source>
+      <target>{lastState}: {date} tarihinde saat {time} (GMT {timezoneOffset})</target>
+    </segment>
+  </unit>
+  <unit id="n_pending_candidate_interview">
+    <segment>
+      <source>{pendingActionsCount,plural, =0{No Records Found} one{(1) Candidate to Interview} other{ (#) Candidates to Interview}}</source>
+      <target>{pendingActionsCount,plural, =0{Kayıt Bulunamadı} one{(1) Aday Mülakat İçin} other{ (#) Aday Mülakat İçin}}</target>
+    </segment>
+  </unit>
+  <unit id="n_pending_leave_request">
+    <segment>
+      <source>{pendingActionsCount,plural, =0{No Records Found} one{(1) Leave Request to Approve} other{ (#) Leave Requests to Approve}}</source>
+      <target>{pendingActionsCount,plural, =0{Kayıt Bulunamadı} one{(1) Onay Bekleyen İzin Talebi} other{ (#) Onay Bekleyen İzin Talebi}}</target>
+    </segment>
+  </unit>
+  <unit id="n_pending_self_review">
+    <segment>
+      <source>{pendingActionsCount,plural, =0{No Records Found} one{(1) Pending Self Review} other{ (#) Pending Self Reviews}}</source>
+      <target>{pendingActionsCount,plural, =0{Kayıt Bulunamadı} one{(1) Bekleyen Öz Değerlendirme} other{ (#) Bekleyen Öz Değerlendirme}}</target>
+    </segment>
+  </unit>
+  <unit id="n_pending_performance_evaluate">
+    <segment>
+      <source>{pendingActionsCount,plural, =0{No Records Found} one{(1) Performance Review to Evaluate} other{ (#) Performance Reviews to Evaluate}}</source>
+      <target>{pendingActionsCount,plural, =0{Kayıt Bulunamadı} one{(1) Değerlendirilecek Performans İncelemesi} other{ (#) Değerlendirilecek Performans İncelemesi}}</target>
+    </segment>
+  </unit>
+  <unit id="n_pending_time_sheet">
+    <segment>
+      <source>{pendingActionsCount,plural, =0{No Records Found} one{(1) Timesheet to Approve} other{ (#) Timesheets to Approve}}</source>
+      <target>{pendingActionsCount,plural, =0{Kayıt Bulunamadı} one{(1) Onay Bekleyen Zaman Çizelgesi} other{ (#) Onay Bekleyen Zaman Çizelgesi}}</target>
+    </segment>
+  </unit>
+</group>
+	<group id="maintenance">
+  <unit id="download_personal_data">
+    <segment>
+      <source>Download Personal Data</source>
+      <target>Kişisel Verileri İndir</target>
+    </segment>
+  </unit>
+  <unit id="past_employee">
+    <segment>
+      <source>Past Employee</source>
+      <target>Eski Çalışan</target>
+    </segment>
+  </unit>
+  <unit id="purge">
+    <segment>
+      <source>Purge</source>
+      <target>Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_all">
+    <segment>
+      <source>Purge All</source>
+      <target>Tümünü Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_candidate_records">
+    <segment>
+      <source>Purge Candidate Records</source>
+      <target>Aday Kayıtlarını Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_candidates">
+    <segment>
+      <source>Purge Candidates</source>
+      <target>Adayları Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_employee">
+    <segment>
+      <source>Purge Employee</source>
+      <target>Çalışanı Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_employee_records">
+    <segment>
+      <source>Purge Employee Records</source>
+      <target>Çalışan Kayıtlarını Temizle</target>
+    </segment>
+  </unit>
+  <unit id="selected_employee">
+    <segment>
+      <source>Selected Employee</source>
+      <target>Seçili Çalışan</target>
+    </segment>
+  </unit>
+  <unit id="purge_success">
+    <segment>
+      <source>Successfully Purged</source>
+      <target>Başarıyla Temizlendi</target>
+    </segment>
+  </unit>
+  <unit id="gdpr_note">
+    <segment>
+      <source>Users who seek access to their data, or who seek to correct, amend, or delete the given information should direct their requests to Data@orangehrm.com with the subject "Purge Records (Instance Identifier: {instanceIdentifier})"</source>
+      <target>Verilerine erişmek veya verilen bilgileri düzeltmek, değiştirmek veya silmek isteyen kullanıcılar, taleplerini konu satırında "Kayıtları Temizle (Örnek Tanımlayıcı: {instanceIdentifier})" belirterek Data@orangehrm.com adresine yönlendirmelidir.</target>
+    </segment>
+  </unit>
+  <unit id="yes_purge">
+    <segment>
+      <source>Yes, Purge</source>
+      <target>Evet, Temizle</target>
+    </segment>
+  </unit>
+  <unit id="purge_candidates_warning">
+    <segment>
+      <source>You are about to purge selected candidates permanently. Are you sure you want to continue? This operation cannot be undone</source>
+      <target>Seçili adayları kalıcı olarak temizlemek üzeresiniz. Devam etmek istediğinize emin misiniz? Bu işlem geri alınamaz.</target>
+    </segment>
+  </unit>
+  <unit id="purge_employee_warning">
+    <segment>
+      <source>You are about to purge the employee permanently. Are you sure you want to continue? This operation cannot be undone</source>
+      <target>Çalışanı kalıcı olarak temizlemek üzeresiniz. Devam etmek istediğinize emin misiniz? Bu işlem geri alınamaz.</target>
+    </segment>
+  </unit>
+</group>
+	<group id="buzz">
+  <unit id="add_photos">
+    <segment>
+      <source>Add Photos</source>
+      <target>Fotoğraf Ekle</target>
+    </segment>
+  </unit>
+  <unit id="buzz_newsfeed">
+    <segment>
+      <source>Buzz Newsfeed</source>
+      <target>Buzz Haber Akışı</target>
+    </segment>
+  </unit>
+  <unit id="delete_post">
+    <segment>
+      <source>Delete Post</source>
+      <target>Gönderiyi Sil</target>
+    </segment>
+  </unit>
+  <unit id="edit_post">
+    <segment>
+      <source>Edit Post</source>
+      <target>Gönderiyi Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="like">
+    <segment>
+      <source>Like</source>
+      <target>Beğen</target>
+    </segment>
+  </unit>
+  <unit id="file_size_validation_message">
+    <segment>
+      <source>Maximum allowed file size is 2MB</source>
+      <target>İzin verilen maksimum dosya boyutu 2MB'dır</target>
+    </segment>
+  </unit>
+  <unit id="most_commented_posts">
+    <segment>
+      <source>Most Commented Posts</source>
+      <target>En Çok Yorumlanan Gönderiler</target>
+    </segment>
+  </unit>
+  <unit id="most_liked_posts">
+    <segment>
+      <source>Most Liked Posts</source>
+      <target>En Çok Beğenilen Gönderiler</target>
+    </segment>
+  </unit>
+  <unit id="most_recent_posts">
+    <segment>
+      <source>Most Recent Posts</source>
+      <target>En Son Gönderiler</target>
+    </segment>
+  </unit>
+  <unit id="no_posts_available">
+    <segment>
+      <source>No Posts Available</source>
+      <target>Gönderi Yok</target>
+    </segment>
+  </unit>
+  <unit id="file_type_validation_message">
+    <segment>
+      <source>Only 'gif', 'png', 'jpg', 'jpeg' type images are allowed!</source>
+      <target>Yalnızca 'gif', 'png', 'jpg', 'jpeg' türündeki resimler izinlidir!</target>
+    </segment>
+  </unit>
+  <unit id="paste_video_url">
+    <segment>
+      <source>Paste Video URL</source>
+      <target>Video URL'sini Yapıştır</target>
+    </segment>
+  </unit>
+  <unit id="post">
+    <segment>
+      <source>Post</source>
+      <target>Gönderi</target>
+    </segment>
+  </unit>
+  <unit id="press_esc_to">
+    <segment>
+      <source>Press Esc to</source>
+      <target>Esc tuşuna basın</target>
+    </segment>
+  </unit>
+  <unit id="read_more">
+    <segment>
+      <source>Read More</source>
+      <target>Daha Fazla Oku</target>
+    </segment>
+  </unit>
+  <unit id="share">
+    <segment>
+      <source>Share</source>
+      <target>Paylaş</target>
+    </segment>
+  </unit>
+  <unit id="share_photos">
+    <segment>
+      <source>Share Photos</source>
+      <target>Fotoğrafları Paylaş</target>
+    </segment>
+  </unit>
+  <unit id="share_post">
+    <segment>
+      <source>Share Post</source>
+      <target>Gönderiyi Paylaş</target>
+    </segment>
+  </unit>
+  <unit id="share_video">
+    <segment>
+      <source>Share Video</source>
+      <target>Videoyu Paylaş</target>
+    </segment>
+  </unit>
+  <unit id="post_delete_confirmation_message">
+    <segment>
+      <source>The selected item will be permanently deleted. Are you sure you want to continue?</source>
+      <target>Seçili öğe kalıcı olarak silinecektir. Devam etmek istediğinize emin misiniz?</target>
+    </segment>
+  </unit>
+  <unit id="upcoming_anniversaries">
+    <segment>
+      <source>Upcoming Anniversaries</source>
+      <target>Yaklaşan Yıl Dönümü Kutlamaları</target>
+    </segment>
+  </unit>
+  <unit id="video_url">
+    <segment>
+      <source>Video URL</source>
+      <target>Video URL'si</target>
+    </segment>
+  </unit>
+  <unit id="post_placeholder">
+    <segment>
+      <source>What's on your mind?</source>
+      <target>Aklında ne var?</target>
+    </segment>
+  </unit>
+  <unit id="write_your_comment">
+    <segment>
+      <source>Write your comment...</source>
+      <target>Yorumunuzu yazın...</target>
+    </segment>
+  </unit>
+  <unit id="n_comment">
+    <segment>
+      <source>{commentCount,plural, =0{0 Comments} one{1 Comment} other{# Comments}}</source>
+      <target>{commentCount,plural, =0{0 Yorum} one{1 Yorum} other{# Yorum}}</target>
+    </segment>
+  </unit>
+  <unit id="n_like">
+    <segment>
+      <source>{likesCount,plural, =0{0 Likes} one{1 Like} other{# Likes}}</source>
+      <target>{likesCount,plural, =0{0 Beğeni} one{1 Beğeni} other{# Beğeni}}</target>
+    </segment>
+  </unit>
+  <unit id="n_share">
+    <segment>
+      <source>{shareCount,plural, =0{0 Shares} one{1 Share} other{# Shares}}</source>
+      <target>{shareCount,plural, =0{0 Paylaşım} one{1 Paylaşım} other{# Paylaşım}}</target>
+    </segment>
+  </unit>
+  <unit id="n_year">
+    <segment>
+      <source>{yearsCount,plural, =0{} one{Year} other{Years}}</source>
+      <target>{yearsCount,plural, =0{} one{Yıl} other{Yıl}}</target>
+    </segment>
+  </unit>
+</group>
+    <group id="marketplace"/>
+    <group id="mobile"/>
+	<group id="help">
+  <unit id="customer_support">
+    <segment>
+      <source>Customer Support</source>
+      <target>Müşteri Destek</target>
+    </segment>
+  </unit>
+  <unit id="getting_started_with_orangehrm">
+    <segment>
+      <source>Getting Started with OrangeHRM</source>
+      <target>OrangeHRM ile Başlarken</target>
+    </segment>
+  </unit>
+  <unit id="getting_started_with_orangehrm_message_1">
+    <segment>
+      <source>Learning how to use a new application can be challenging. At OrangeHRM, we are committed to providing you with the necessary knowledge and skills required to fully utilize the application thereby allowing you to quickly and efficiently manage your HR processes.</source>
+      <target>Yeni bir uygulamayı kullanmayı öğrenmek zorlayıcı olabilir. OrangeHRM olarak, size uygulamayı tam anlamıyla kullanabilmek için gerekli bilgi ve becerileri sağlamak için buradayız; böylece insan kaynakları süreçlerinizi hızlı ve verimli bir şekilde yönetebilirsiniz.</target>
+    </segment>
+  </unit>
+  <unit id="contact_us_on_message">
+    <segment>
+      <source>Should you experience any issues, please do not hesitate to contact us on</source>
+      <target>Eğer herhangi bir sorun yaşarsanız, lütfen bizimle iletişime geçmekten çekinmeyin:</target>
+    </segment>
+  </unit>
+  <unit id="getting_started_with_orangehrm_message_2">
+    <segment>
+      <source>The following information repositories are available to help you understand the application:</source>
+      <target>Uygulamayı anlamak için aşağıdaki bilgi kaynakları mevcuttur:</target>
+    </segment>
+  </unit>
+  <unit id="we_will_be_delighted_to_help">
+    <segment>
+      <source>We will be delighted to help.</source>
+      <target>Size yardımcı olmaktan mutluluk duyarız.</target>
+    </segment>
+  </unit>
+</group>
+	<group id="attendance">
+  <unit id="attendance_configuration">
+    <segment>
+      <source>Attendance Configuration</source>
+      <target>Devam İzleme Yapılandırması</target>
+    </segment>
+  </unit>
+  <unit id="attendance_total_summary_report">
+    <segment>
+      <source>Attendance Total Summary Report</source>
+      <target>Devam İzleme Toplam Özeti Raporu</target>
+    </segment>
+  </unit>
+  <unit id="duration_hours">
+    <segment>
+      <source>Duration (Hours)</source>
+      <target>Süre (Saat)</target>
+    </segment>
+  </unit>
+  <unit id="edit_attendance_records">
+    <segment>
+      <source>Edit Attendance Records</source>
+      <target>Devam Kayıtlarını Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="employee_attendance_records">
+    <segment>
+      <source>Employee Attendance Records</source>
+      <target>Çalışan Devam Kayıtları</target>
+    </segment>
+  </unit>
+  <unit id="employee_can_change_current_time_when_punching_in_out">
+    <segment>
+      <source>Employee can change current time when punching in/out</source>
+      <target>Çalışan, giriş/çıkış yaparken mevcut saati değiştirebilir</target>
+    </segment>
+  </unit>
+  <unit id="employee_can_edit_delete_own_attendance_records">
+    <segment>
+      <source>Employee can edit/delete own attendance records</source>
+      <target>Çalışan kendi devam kayıtlarını düzenleyebilir/silebilir</target>
+    </segment>
+  </unit>
+  <unit id="in">
+    <segment>
+      <source>In</source>
+      <target>Giriş</target>
+    </segment>
+  </unit>
+  <unit id="my_attendance_records">
+    <segment>
+      <source>My Attendance Records</source>
+      <target>Devam Kayıtlarım</target>
+    </segment>
+  </unit>
+  <unit id="not_punched_in">
+    <segment>
+      <source>Not Punched In</source>
+      <target>Giriş Yapılmadı</target>
+    </segment>
+  </unit>
+  <unit id="out">
+    <segment>
+      <source>Out</source>
+      <target>Çıkış</target>
+    </segment>
+  </unit>
+  <unit id="overlapping_records_found">
+    <segment>
+      <source>Overlapping Records Found</source>
+      <target>Çakışan Kayıtlar Bulundu</target>
+    </segment>
+  </unit>
+  <unit id="punch_in">
+    <segment>
+      <source>Punch In</source>
+      <target>Giriş Yap</target>
+    </segment>
+  </unit>
+  <unit id="punch_in_note">
+    <segment>
+      <source>Punch In Note</source>
+      <target>Giriş Notu</target>
+    </segment>
+  </unit>
+  <unit id="punch_out">
+    <segment>
+      <source>Punch Out</source>
+      <target>Çıkış Yap</target>
+    </segment>
+  </unit>
+  <unit id="punch_out_note">
+    <segment>
+      <source>Punch Out Note</source>
+      <target>Çıkış Notu</target>
+    </segment>
+  </unit>
+  <unit id="punched_in">
+    <segment>
+      <source>Punched In</source>
+      <target>Giriş Yapıldı</target>
+    </segment>
+  </unit>
+  <unit id="punched_in_note">
+    <segment>
+      <source>Punched In Note</source>
+      <target>Giriş Yapma Notu</target>
+    </segment>
+  </unit>
+  <unit id="punched_out">
+    <segment>
+      <source>Punched Out</source>
+      <target>Çıkış Yapıldı</target>
+    </segment>
+  </unit>
+  <unit id="punched_in_time">
+    <segment>
+      <source>Punched in time</source>
+      <target>Giriş Yapılma Zamanı</target>
+    </segment>
+  </unit>
+  <unit id="supervisor_can_add_edit_delete_attendance_records_of_subordinates">
+    <segment>
+      <source>Supervisor can add/edit/delete attendance records of subordinates</source>
+      <target>Yönetici, astlarının devam kayıtlarını ekleyebilir/düzenleyebilir/silebilir</target>
+    </segment>
+  </unit>
+  <unit id="timezone">
+    <segment>
+      <source>Timezone</source>
+      <target>Saat Dilimi</target>
+    </segment>
+  </unit>
+  <unit id="hh_mm">
+    <segment>
+      <source>hh:mm</source>
+      <target>ss:dd</target>
+    </segment>
+  </unit>
+</group>
+	<group id="auth">
+  <unit id="reset_password_link_via_email">
+    <segment>
+      <source>A reset password link has been sent to you via email.</source>
+      <target>Şifre sıfırlama bağlantısı e-posta yoluyla size gönderildi.</target>
+    </segment>
+  </unit>
+  <unit id="access_and_manage_your_data">
+    <segment>
+      <source>Access and manage your data</source>
+      <target>Verilerinize erişin ve yönetin</target>
+    </segment>
+  </unit>
+  <unit id="account_disabled">
+    <segment>
+      <source>Account disabled</source>
+      <target>Hesap devre dışı bırakıldı</target>
+    </segment>
+  </unit>
+  <unit id="admin_access">
+    <segment>
+      <source>Administrator Access</source>
+      <target>Yönetici Erişimi</target>
+    </segment>
+  </unit>
+  <unit id="allow_access">
+    <segment>
+      <source>Allow Access</source>
+      <target>Erişime İzin Ver</target>
+    </segment>
+  </unit>
+  <unit id="csrf_token_validation_failed">
+    <segment>
+      <source>CSRF token validation failed</source>
+      <target>CSRF belirteci doğrulaması başarısız oldu</target>
+    </segment>
+  </unit>
+  <unit id="change_weak_password">
+    <segment>
+      <source>Change Weak Password</source>
+      <target>Zayıf Şifreyi Değiştir</target>
+    </segment>
+  </unit>
+  <unit id="credential_required">
+    <segment>
+      <source>Credential Required</source>
+      <target>Kimlik Bilgisi Gerekli</target>
+    </segment>
+  </unit>
+  <unit id="deny">
+    <segment>
+      <source>Deny</source>
+      <target>Reddet</target>
+    </segment>
+  </unit>
+  <unit id="do_you_want_to_allow_access">
+    <segment>
+      <source>Do you want to allow access?</source>
+      <target>Erişime izin vermek istiyor musunuz?</target>
+    </segment>
+  </unit>
+  <unit id="employee_is_terminated">
+    <segment>
+      <source>Employee is terminated</source>
+      <target>Çalışan işten çıkarıldı</target>
+    </segment>
+  </unit>
+  <unit id="employee_is_assigned">
+    <segment>
+      <source>Employee not assigned</source>
+      <target>Çalışan atanmamış</target>
+    </segment>
+  </unit>
+  <unit id="forgot_password">
+    <segment>
+      <source>Forgot Your Password</source>
+      <target>Şifrenizi mi Unuttunuz?</target>
+    </segment>
+  </unit>
+  <unit id="email_not_receive_note">
+    <segment>
+      <source>If the email does not arrive, please contact your OrangeHRM Administrator.</source>
+      <target>E-posta gelmezse lütfen OrangeHRM Yöneticinizle iletişime geçin.</target>
+    </segment>
+  </unit>
+  <unit id="invalid_credentials">
+    <segment>
+      <source>Invalid credentials</source>
+      <target>Geçersiz kimlik bilgileri</target>
+    </segment>
+  </unit>
+  <unit id="invalid_password_reset_code">
+    <segment>
+      <source>Invalid password reset code</source>
+      <target>Geçersiz şifre sıfırlama kodu</target>
+    </segment>
+  </unit>
+  <unit id="login">
+    <segment>
+      <source>Login</source>
+      <target>Giriş Yap</target>
+    </segment>
+  </unit>
+  <unit id="mobile_client_disabled_error">
+    <segment>
+      <source>Mobile app is not enabled. Please contact your OrangeHRM administrator.</source>
+      <target>Mobil uygulama etkin değil. Lütfen OrangeHRM yöneticinizle iletişime geçin.</target>
+    </segment>
+  </unit>
+  <unit id="new_password">
+    <segment>
+      <source>New Password</source>
+      <target>Yeni Şifre</target>
+    </segment>
+  </unit>
+  <unit id="perform_actions_on_your_behalf">
+    <segment>
+      <source>Perform actions on your behalf</source>
+      <target>Sizin adınıza işlemler gerçekleştir</target>
+    </segment>
+  </unit>
+  <unit id="username_identify_reset_note">
+    <segment>
+      <source>Please enter your username to identify your account to reset your password</source>
+      <target>Şifrenizi sıfırlamak için lütfen hesabınızı tanımlamak üzere kullanıcı adınızı girin</target>
+    </segment>
+  </unit>
+  <unit id="reset_password">
+    <segment>
+      <source>Reset Password</source>
+      <target>Şifreyi Sıfırla</target>
+    </segment>
+  </unit>
+  <unit id="reset_password_link_sent_successfully">
+    <segment>
+      <source>Reset Password link sent successfully</source>
+      <target>Şifre Sıfırlama bağlantısı başarıyla gönderildi</target>
+    </segment>
+  </unit>
+  <unit id="set_new_password">
+    <segment>
+      <source>Set a new Password</source>
+      <target>Yeni bir şifre belirleyin</target>
+    </segment>
+  </unit>
+  <unit id="configured_receive_email_notification_note">
+    <segment>
+      <source>The OrangeHRM system is not configured to receive email notifications. Please contact your OrangeHRM administrator to reset your password</source>
+      <target>OrangeHRM sistemi e-posta bildirimleri alacak şekilde yapılandırılmamıştır. Lütfen şifrenizi sıfırlamak için OrangeHRM yöneticinizle iletişime geçin.</target>
+    </segment>
+  </unit>
+  <unit id="reset_password_token_expired_note">
+    <segment>
+      <source>The user account cannot be found or the reset password token has expired</source>
+      <target>Kullanıcı hesabı bulunamadı veya şifre sıfırlama belirtecinin süresi doldu</target>
+    </segment>
+  </unit>
+  <unit id="this_request_is_invalid">
+    <segment>
+      <source>This request is invalid</source>
+      <target>Bu istek geçersiz</target>
+    </segment>
+  </unit>
+  <unit id="follow_link_to_select_password">
+    <segment>
+      <source>You can follow that link and select a new password.</source>
+      <target>Bağlantıyı takip ederek yeni bir şifre seçebilirsiniz.</target>
+    </segment>
+  </unit>
+  <unit id="admin_access_note">
+    <segment>
+      <source>You have requested to access a critical Administrator function in OrangeHRM and are required to validate your credentials below</source>
+      <target>OrangeHRM'de kritik bir Yönetici işlevine erişim talep ettiniz ve aşağıda kimlik bilgilerinizi doğrulamanız gerekmektedir.</target>
+    </segment>
+  </unit>
+  <unit id="password_not_strong">
+    <segment>
+      <source>Your current password is weak. Please choose a stronger password.</source>
+      <target>Mevcut şifreniz zayıf. Lütfen daha güçlü bir şifre seçin.</target>
+    </segment>
+  </unit>
+  <unit id="password_could_be_guessable">
+    <segment>
+      <source>Your password meets the minimum requirements, but it could be guessable</source>
+      <target>Şifreniz minimum gereksinimleri karşılamakta ancak tahmin edilebilir olabilir</target>
+    </segment>
+  </unit>
+  <unit id="password_spaces_not_allowed">
+    <segment>
+      <source>Your password should not contain spaces</source>
+      <target>Şifreniz boşluk içermemelidir</target>
+    </segment>
+  </unit>
+  <unit id="password">
+    <segment>
+      <source>password</source>
+      <target>şifre</target>
+    </segment>
+  </unit>
+  <unit id="back_to_login">
+    <segment>
+      <source>to go back to login page</source>
+      <target>giriş sayfasına geri dönmek için</target>
+    </segment>
+  </unit>
+  <unit id="request_new_password_token">
+    <segment>
+      <source>to request a new password reset token</source>
+      <target>yeni bir şifre sıfırlama belirteci talep etmek için</target>
+    </segment>
+  </unit>
+  <unit id="username">
+    <segment>
+      <source>username</source>
+      <target>kullanıcı adı</target>
+    </segment>
+  </unit>
+  <unit id="client_name_would_like_to">
+    <segment>
+      <source>{clientName} would like to</source>
+      <target>{clientName} istiyor</target>
+    </segment>
+  </unit>
+  <unit id="password_min_length">
+    <segment>
+      <source>{count,plural, one{Should have at least 1 character} other{Should have at least # characters}}</source>
+      <target>{count,plural, one{En az 1 karakter içermeli} other{En az # karakter içermeli}}</target>
+    </segment>
+  </unit>
+  <unit id="password_max_length">
+    <segment>
+      <source>{count,plural, one{Should not exceed 1 character} other{Should not exceed # characters}}</source>
+      <target>{count,plural, one{1 karakteri aşmamalı} other{# karakteri aşmamalı}}</target>
+    </segment>
+  </unit>
+  <unit id="password_n_lowercase_letters">
+    <segment>
+      <source>{count,plural, one{Your password must contain minimum 1 lower-case letter} other{Your password must contain minimum # lower-case letters}}</source>
+      <target>{count,plural, one{Şifreniz en az 1 küçük harf içermelidir} other{Şifreniz en az # küçük harf içermelidir}}</target>
+    </segment>
+  </unit>
+  <unit id="password_n_numbers">
+    <segment>
+      <source>{count,plural, one{Your password must contain minimum 1 number} other{Your password must contain minimum # numbers}}</source>
+      <target>{count,plural, one{Şifreniz en az 1 sayı içermelidir} other{Şifreniz en az # sayı içermelidir}}</target>
+    </segment>
+  </unit>
+  <unit id="password_n_special_characters">
+    <segment>
+      <source>{count,plural, one{Your password must contain minimum 1 special character} other{Your password must contain minimum # special characters}}</source>
+      <target>{count,plural, one{Şifreniz en az 1 özel karakter içermelidir} other{Şifreniz en az # özel karakter içermelidir}}</target>
+    </segment>
+  </unit>
+  <unit id="password_n_uppercase_letters">
+    <segment>
+      <source>{count,plural, one{Your password must contain minimum 1 upper-case letter} other{Your password must contain minimum # upper-case letters}}</source>
+      <target>{count,plural, one{Şifreniz en az 1 büyük harf içermelidir} other{Şifreniz en az # büyük harf içermelidir}}</target>
+    </segment>
+  </unit>
+</group>
+	<group id="claim">
+  <unit id="add_event">
+    <segment>
+      <source>Add Event</source>
+      <target>Etkinlik Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_expense">
+    <segment>
+      <source>Add Expense</source>
+      <target>Gider Ekle</target>
+    </segment>
+  </unit>
+  <unit id="add_expense_type">
+    <segment>
+      <source>Add Expense Type</source>
+      <target>Gider Türü Ekle</target>
+    </segment>
+  </unit>
+  <unit id="assign_claim">
+    <segment>
+      <source>Assign Claim</source>
+      <target>Talep Ata</target>
+    </segment>
+  </unit>
+  <unit id="claim">
+    <segment>
+      <source>Claim</source>
+      <target>Talep</target>
+    </segment>
+  </unit>
+  <unit id="claim_module">
+    <segment>
+      <source>Claim Module</source>
+      <target>Talep Modülü</target>
+    </segment>
+  </unit>
+  <unit id="create">
+    <segment>
+      <source>Create</source>
+      <target>Oluştur</target>
+    </segment>
+  </unit>
+  <unit id="create_claim_request">
+    <segment>
+      <source>Create Claim Request</source>
+      <target>Talep İsteği Oluştur</target>
+    </segment>
+  </unit>
+  <unit id="edit_event">
+    <segment>
+      <source>Edit Event</source>
+      <target>Etkinliği Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_expense">
+    <segment>
+      <source>Edit Expense</source>
+      <target>Gideri Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="edit_expense_type">
+    <segment>
+      <source>Edit Expense Type</source>
+      <target>Gider Türünü Düzenle</target>
+    </segment>
+  </unit>
+  <unit id="employee_claims">
+    <segment>
+      <source>Employee Claims</source>
+      <target>Çalışan Talepleri</target>
+    </segment>
+  </unit>
+  <unit id="event">
+    <segment>
+      <source>Event</source>
+      <target>Etkinlik</target>
+    </segment>
+  </unit>
+  <unit id="event_name">
+    <segment>
+      <source>Event Name</source>
+      <target>Etkinlik Adı</target>
+    </segment>
+  </unit>
+  <unit id="events">
+    <segment>
+      <source>Events</source>
+      <target>Etkinlikler</target>
+    </segment>
+  </unit>
+  <unit id="expense_type">
+    <segment>
+      <source>Expense Type</source>
+      <target>Gider Türü</target>
+    </segment>
+  </unit>
+  <unit id="expense_types">
+    <segment>
+      <source>Expense Types</source>
+      <target>Gider Türleri</target>
+    </segment>
+  </unit>
+  <unit id="expenses">
+    <segment>
+      <source>Expenses</source>
+      <target>Giderler</target>
+    </segment>
+  </unit>
+  <unit id="initiated">
+    <segment>
+      <source>Initiated</source>
+      <target>Başlatıldı</target>
+    </segment>
+  </unit>
+  <unit id="my_claims">
+    <segment>
+      <source>My Claims</source>
+      <target>Taleplerim</target>
+    </segment>
+  </unit>
+  <unit id="paid">
+    <segment>
+      <source>Paid</source>
+      <target>Ödendi</target>
+    </segment>
+  </unit>
+  <unit id="pay">
+    <segment>
+      <source>Pay</source>
+      <target>Öde</target>
+    </segment>
+  </unit>
+  <unit id="reference_id">
+    <segment>
+      <source>Reference Id</source>
+      <target>Referans Kimliği</target>
+    </segment>
+  </unit>
+  <unit id="remarks">
+    <segment>
+      <source>Remarks</source>
+      <target>Açıklamalar</target>
+    </segment>
+  </unit>
+  <unit id="should_be_a_valid_number">
+    <segment>
+      <source>Should be a valid number (xxx.xx)</source>
+      <target>Geçerli bir sayı olmalıdır (xxx.xx)</target>
+    </segment>
+  </unit>
+  <unit id="submit_claim">
+    <segment>
+      <source>Submit Claim</source>
+      <target>Talebi Gönder</target>
+    </segment>
+  </unit>
+  <unit id="submitted_date">
+    <segment>
+      <source>Submitted Date</source>
+      <target>Gönderim Tarihi</target>
+    </segment>
+  </unit>
+  <unit id="total_amount">
+    <segment>
+      <source>Total Amount ({currencyName}) : {totalAmount}</source>
+      <target>Toplam Tutar ({currencyName}) : {totalAmount}</target>
+    </segment>
+  </unit>
+  <unit id="view_details">
+    <segment>
+      <source>View Details</source>
+      <target>Detayları Görüntüle</target>
+    </segment>
+  </unit>
+</group>
+  </file>
+</xliff>
